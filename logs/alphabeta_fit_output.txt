@@ -1,0 +1,9 @@
+>> q2_alphabeta_exponential_fit
+
+f = 
+
+     General model Exp1:
+     f(x) = a*exp(b*x)
+     Coefficients (with 95% confidence bounds):
+       a =       20.42  (-1.98, 42.83)
+       b =       1.031  (0.8443, 1.218)

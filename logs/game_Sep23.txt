@@ -1,0 +1,777 @@
+Establishing connection...
+Waiting for opponent to join...
+Starting game session 'round-3'!
+  1 2 3 4 5 6 7
+1  , , , , , ,X
+2 X, , , , , ,O
+3 O, , , , , ,X
+4 X, , , , , ,O
+5 O, , , , , ,X
+6 X, , , , , ,O
+7 O, , , , , ,
+Thinking of a move...
+Depth 0, value: 0, best action: None, elapsed time: 0.00015115737915, states visited: 1
+Depth 1, value: 5, best action: 76W, elapsed time: 0.00171494483948, states visited: 8
+Depth 2, value: 0, best action: 76W, elapsed time: 0.0135879516602, states visited: 30
+Depth 3, value: 6, best action: 74W, elapsed time: 0.0247468948364, states visited: 189
+Depth 4, value: 0, best action: 74W, elapsed time: 0.0583291053772, states visited: 576
+Depth 5, value: 6, best action: 76W, elapsed time: 0.461294174194, states visited: 3995
+Depth 6, value: -1, best action: 15E, elapsed time: 1.659085989, states visited: 16856
+Depth 7, value: 6, best action: 74W, elapsed time: 6.38596796989, states visited: 65796
+White (AI) move: 74W
+  1 2 3 4 5 6 7
+1  , , , , , ,X
+2 X, , , , , ,O
+3 O, , , , , ,X
+4 X, , , , ,O,
+5 O, , , , , ,X
+6 X, , , , , ,O
+7 O, , , , , ,
+Waiting for move from server...
+Black (server) move: 14E
+
+  1 2 3 4 5 6 7
+1  , , , , , ,X
+2 X, , , , , ,O
+3 O, , , , , ,X
+4  ,X, , , ,O,
+5 O, , , , , ,X
+6 X, , , , , ,O
+7 O, , , , , ,
+Thinking of a move...
+Depth 0, value: 0, best action: None, elapsed time: 0.000166893005371, states visited: 1
+Depth 1, value: 9, best action: 64W, elapsed time: 0.00200200080872, states visited: 13
+Depth 2, value: 0, best action: 64W, elapsed time: 0.00900912284851, states visited: 61
+Depth 3, value: 5, best action: 13E, elapsed time: 0.0331840515137, states visited: 373
+Depth 4, value: -1, best action: 13E, elapsed time: 0.151856899261, states visited: 1457
+Depth 5, value: 8, best action: 17E, elapsed time: 0.966641902924, states visited: 9311
+Depth 6, value: -1, best action: 76W, elapsed time: 3.08788990974, states visited: 31589
+Depth 7, value: 8, best action: 64W, elapsed time: 14.6895859241, states visited: 154004
+White (AI) move: 64W
+  1 2 3 4 5 6 7
+1  , , , , , ,X
+2 X, , , , , ,O
+3 O, , , , , ,X
+4  ,X, , ,O, ,
+5 O, , , , , ,X
+6 X, , , , , ,O
+7 O, , , , , ,
+Waiting for move from server...
+Black (server) move: 24E
+
+  1 2 3 4 5 6 7
+1  , , , , , ,X
+2 X, , , , , ,O
+3 O, , , , , ,X
+4  , ,X, ,O, ,
+5 O, , , , , ,X
+6 X, , , , , ,O
+7 O, , , , , ,
+Thinking of a move...
+Depth 0, value: 0, best action: None, elapsed time: 0.00016713142395, states visited: 1
+Depth 1, value: 5, best action: 13E, elapsed time: 0.00202703475952, states visited: 13
+Depth 2, value: 0, best action: 13E, elapsed time: 0.00693607330322, states visited: 50
+Depth 3, value: 11, best action: 13E, elapsed time: 0.0350351333618, states visited: 320
+Depth 4, value: 0, best action: 13E, elapsed time: 0.105625152588, states visited: 1178
+Depth 5, value: 8, best action: 13E, elapsed time: 0.768877983093, states visited: 7407
+Depth 6, value: 0, best action: 13E, elapsed time: 2.35403800011, states visited: 22788
+White (AI) move: 13E
+  1 2 3 4 5 6 7
+1  , , , , , ,X
+2 X, , , , , ,O
+3  ,O, , , , ,X
+4  , ,X, ,O, ,
+5 O, , , , , ,X
+6 X, , , , , ,O
+7 O, , , , , ,
+Waiting for move from server...
+Black (server) move: 73W
+
+  1 2 3 4 5 6 7
+1  , , , , , ,X
+2 X, , , , , ,O
+3  ,O, , , ,X,
+4  , ,X, ,O, ,
+5 O, , , , , ,X
+6 X, , , , , ,O
+7 O, , , , , ,
+Thinking of a move...
+Depth 0, value: 0, best action: None, elapsed time: 0.000210046768188, states visited: 1
+Depth 1, value: 11, best action: 15E, elapsed time: 0.00183606147766, states visited: 16
+Depth 2, value: 0, best action: 15E, elapsed time: 0.0081090927124, states visited: 76
+Depth 3, value: 8, best action: 15E, elapsed time: 0.0614120960236, states visited: 617
+Depth 4, value: 0, best action: 15E, elapsed time: 0.28826212883, states visited: 2843
+Depth 5, value: 6, best action: 54W, elapsed time: 2.36972689629, states visited: 21805
+Depth 6, value: -3, best action: 15E, elapsed time: 6.95830392838, states visited: 71527
+White (AI) move: 15E
+  1 2 3 4 5 6 7
+1  , , , , , ,X
+2 X, , , , , ,O
+3  ,O, , , ,X,
+4  , ,X, ,O, ,
+5  ,O, , , , ,X
+6 X, , , , , ,O
+7 O, , , , , ,
+Waiting for move from server...
+Black (server) move: 75W
+
+  1 2 3 4 5 6 7
+1  , , , , , ,X
+2 X, , , , , ,O
+3  ,O, , , ,X,
+4  , ,X, ,O, ,
+5  ,O, , , ,X,
+6 X, , , , , ,O
+7 O, , , , , ,
+Thinking of a move...
+Depth 0, value: 0, best action: None, elapsed time: 0.000164985656738, states visited: 1
+Depth 1, value: 8, best action: 17E, elapsed time: 0.0031898021698, states visited: 19
+Depth 2, value: 0, best action: 17E, elapsed time: 0.00995802879333, states visited: 72
+Depth 3, value: 5, best action: 72W, elapsed time: 0.107172966003, states visited: 1128
+Depth 4, value: 0, best action: 76W, elapsed time: 0.232769012451, states visited: 2150
+Depth 5, value: 9, best action: 72W, elapsed time: 2.20088815689, states visited: 21849
+Depth 6, value: -1, best action: 54W, elapsed time: 6.94195890427, states visited: 65725
+White (AI) move: 54W
+  1 2 3 4 5 6 7
+1  , , , , , ,X
+2 X, , , , , ,O
+3  ,O, , , ,X,
+4  , ,X,O, , ,
+5  ,O, , , ,X,
+6 X, , , , , ,O
+7 O, , , , , ,
+Waiting for move from server...
+Black (server) move: 63W
+
+  1 2 3 4 5 6 7
+1  , , , , , ,X
+2 X, , , , , ,O
+3  ,O, , ,X, ,
+4  , ,X,O, , ,
+5  ,O, , , ,X,
+6 X, , , , , ,O
+7 O, , , , , ,
+Thinking of a move...
+Depth 0, value: -2, best action: None, elapsed time: 0.000117063522339, states visited: 1
+Depth 1, value: 971, best action: 25E, elapsed time: 0.0025110244751, states visited: 18
+Depth 2, value: 0, best action: 72W, elapsed time: 0.00958800315857, states visited: 86
+Depth 3, value: 970, best action: 76W, elapsed time: 0.131499052048, states visited: 1248
+Depth 4, value: 0, best action: 76W, elapsed time: 0.291772842407, states visited: 2940
+Depth 5, value: 7, best action: 72W, elapsed time: 1.68565297127, states visited: 17749
+Depth 6, value: -2, best action: 72W, elapsed time: 5.28160619736, states visited: 57621
+White (AI) move: 72W
+  1 2 3 4 5 6 7
+1  , , , , , ,X
+2 X, , , , ,O,
+3  ,O, , ,X, ,
+4  , ,X,O, , ,
+5  ,O, , , ,X,
+6 X, , , , , ,O
+7 O, , , , , ,
+Waiting for move from server...
+Black (server) move: 12E
+
+  1 2 3 4 5 6 7
+1  , , , , , ,X
+2  ,X, , , ,O,
+3  ,O, , ,X, ,
+4  , ,X,O, , ,
+5  ,O, , , ,X,
+6 X, , , , , ,O
+7 O, , , , , ,
+Thinking of a move...
+Depth 0, value: 1, best action: None, elapsed time: 0.000175952911377, states visited: 1
+Depth 1, value: 974, best action: 25E, elapsed time: 0.00357699394226, states visited: 19
+Depth 2, value: 1, best action: 17E, elapsed time: 0.0163099765778, states visited: 144
+Depth 3, value: 973, best action: 76W, elapsed time: 0.14901804924, states visited: 1595
+Depth 4, value: 0, best action: 76W, elapsed time: 1.00405907631, states visited: 5408
+Depth 5, value: 7, best action: 23E, elapsed time: 5.09783911705, states visited: 46414
+White (AI) move: 23E
+  1 2 3 4 5 6 7
+1  , , , , , ,X
+2  ,X, , , ,O,
+3  , ,O, ,X, ,
+4  , ,X,O, , ,
+5  ,O, , , ,X,
+6 X, , , , , ,O
+7 O, , , , , ,
+Waiting for move from server...
+Black (server) move: 53W
+
+  1 2 3 4 5 6 7
+1  , , , , , ,X
+2  ,X, , , ,O,
+3  , ,O,X, , ,
+4  , ,X,O, , ,
+5  ,O, , , ,X,
+6 X, , , , , ,O
+7 O, , , , , ,
+Thinking of a move...
+Depth 0, value: 0, best action: None, elapsed time: 0.000168085098267, states visited: 1
+Depth 1, value: 975, best action: 76W, elapsed time: 0.00285696983337, states visited: 17
+Depth 2, value: 0, best action: 76W, elapsed time: 0.0109939575195, states visited: 91
+Depth 3, value: 7, best action: 76W, elapsed time: 0.0477569103241, states visited: 478
+Depth 4, value: 0, best action: 76W, elapsed time: 0.265333175659, states visited: 2521
+Depth 5, value: 5, best action: 62W, elapsed time: 1.08108305931, states visited: 11150
+Depth 6, value: 0, best action: 62W, elapsed time: 2.7993350029, states visited: 27247
+Depth 7, value: 5, best action: 17E, elapsed time: 12.0423660278, states visited: 129559
+White (AI) move: 17E
+  1 2 3 4 5 6 7
+1  , , , , , ,X
+2  ,X, , , ,O,
+3  , ,O,X, , ,
+4  , ,X,O, , ,
+5  ,O, , , ,X,
+6 X, , , , , ,O
+7  ,O, , , , ,
+Waiting for move from server...
+Black (server) move: 16E
+
+  1 2 3 4 5 6 7
+1  , , , , , ,X
+2  ,X, , , ,O,
+3  , ,O,X, , ,
+4  , ,X,O, , ,
+5  ,O, , , ,X,
+6  ,X, , , , ,O
+7  ,O, , , , ,
+Thinking of a move...
+Depth 0, value: 0, best action: None, elapsed time: 0.000201940536499, states visited: 1
+Depth 1, value: 975, best action: 76W, elapsed time: 0.00326204299927, states visited: 17
+Depth 2, value: 0, best action: 76W, elapsed time: 0.00906682014465, states visited: 92
+Depth 3, value: 5, best action: 62W, elapsed time: 0.0354950428009, states visited: 442
+Depth 4, value: 0, best action: 25E, elapsed time: 0.26665687561, states visited: 2791
+Depth 5, value: 5, best action: 27E, elapsed time: 1.11121106148, states visited: 10252
+Depth 6, value: 0, best action: 25E, elapsed time: 2.4383649826, states visited: 26247
+Depth 7, value: 4, best action: 25E, elapsed time: 10.8461208344, states visited: 121858
+White (AI) move: 25E
+  1 2 3 4 5 6 7
+1  , , , , , ,X
+2  ,X, , , ,O,
+3  , ,O,X, , ,
+4  , ,X,O, , ,
+5  , ,O, , ,X,
+6  ,X, , , , ,O
+7  ,O, , , , ,
+Waiting for move from server...
+Black (server) move: 22S
+
+  1 2 3 4 5 6 7
+1  , , , , , ,X
+2  , , , , ,O,
+3  ,X,O,X, , ,
+4  , ,X,O, , ,
+5  , ,O, , ,X,
+6  ,X, , , , ,O
+7  ,O, , , , ,
+Thinking of a move...
+Depth 0, value: 967, best action: None, elapsed time: 0.000124931335449, states visited: 1
+Depth 1, value: 972, best action: 76W, elapsed time: 0.00225496292114, states visited: 16
+Depth 2, value: 0, best action: 76W, elapsed time: 0.0106029510498, states visited: 100
+Depth 3, value: 7, best action: 76W, elapsed time: 0.0404059886932, states visited: 479
+Depth 4, value: 0, best action: 76W, elapsed time: 0.147784948349, states visited: 1668
+Depth 5, value: 5, best action: 62W, elapsed time: 1.4578640461, states visited: 15117
+Depth 6, value: -4, best action: 76W, elapsed time: 4.99410295486, states visited: 54291
+White (AI) move: 76W
+  1 2 3 4 5 6 7
+1  , , , , , ,X
+2  , , , , ,O,
+3  ,X,O,X, , ,
+4  , ,X,O, , ,
+5  , ,O, , ,X,
+6  ,X, , , ,O,
+7  ,O, , , , ,
+Waiting for move from server...
+Black (server) move: 71S
+
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , ,O,X
+3  ,X,O,X, , ,
+4  , ,X,O, , ,
+5  , ,O, , ,X,
+6  ,X, , , ,O,
+7  ,O, , , , ,
+Thinking of a move...
+Depth 0, value: 967, best action: None, elapsed time: 0.000134944915771, states visited: 1
+Depth 1, value: 970, best action: 62W, elapsed time: 0.00206208229065, states visited: 15
+Depth 2, value: 0, best action: 62W, elapsed time: 0.0137090682983, states visited: 146
+Depth 3, value: 967, best action: 35E, elapsed time: 0.104442834854, states visited: 1115
+Depth 4, value: 2, best action: 27E, elapsed time: 0.31652712822, states visited: 3442
+Depth 5, value: 5, best action: 62W, elapsed time: 3.36143088341, states visited: 37290
+Depth 6, value: -2, best action: 27E, elapsed time: 6.5160150528, states visited: 74331
+White (AI) move: 27E
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , ,O,X
+3  ,X,O,X, , ,
+4  , ,X,O, , ,
+5  , ,O, , ,X,
+6  ,X, , , ,O,
+7  , ,O, , , ,
+Waiting for move from server...
+Black (server) move: 23S
+
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , ,O,X
+3  , ,O,X, , ,
+4  ,X,X,O, , ,
+5  , ,O, , ,X,
+6  ,X, , , ,O,
+7  , ,O, , , ,
+Thinking of a move...
+Depth 0, value: 966, best action: None, elapsed time: 0.000157833099365, states visited: 1
+Depth 1, value: 971, best action: 37N, elapsed time: 0.00241684913635, states visited: 17
+Depth 2, value: 4, best action: 37N, elapsed time: 0.0134181976318, states visited: 138
+Depth 3, value: 968, best action: 35E, elapsed time: 0.0814538002014, states visited: 962
+Depth 4, value: -2, best action: 35E, elapsed time: 0.531847953796, states visited: 5786
+Depth 5, value: 8, best action: 35W, elapsed time: 3.67206597328, states visited: 40228
+Depth 6, value: -1, best action: 35W, elapsed time: 10.0092189312, states visited: 115126
+White (AI) move: 35W
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , ,O,X
+3  , ,O,X, , ,
+4  ,X,X,O, , ,
+5  ,O, , , ,X,
+6  ,X, , , ,O,
+7  , ,O, , , ,
+Waiting for move from server...
+Black (server) move: 26E
+
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , ,O,X
+3  , ,O,X, , ,
+4  ,X,X,O, , ,
+5  ,O, , , ,X,
+6  , ,X, , ,O,
+7  , ,O, , , ,
+Thinking of a move...
+Depth 0, value: 960, best action: None, elapsed time: 0.0001380443573, states visited: 1
+Depth 1, value: 966, best action: 25E, elapsed time: 0.00240278244019, states visited: 16
+Depth 2, value: 0, best action: 25E, elapsed time: 0.0110290050507, states visited: 101
+Depth 3, value: 960, best action: 66W, elapsed time: 0.123726844788, states visited: 1297
+Depth 4, value: 0, best action: 25E, elapsed time: 0.304203033447, states visited: 3227
+Depth 5, value: 3, best action: 25E, elapsed time: 3.69447803497, states visited: 38324
+Depth 6, value: -2, best action: 66W, elapsed time: 9.226801157, states visited: 98491
+White (AI) move: 66W
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , ,O,X
+3  , ,O,X, , ,
+4  ,X,X,O, , ,
+5  ,O, , , ,X,
+6  , ,X, ,O, ,
+7  , ,O, , , ,
+Waiting for move from server...
+Black (server) move: 65W
+
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , ,O,X
+3  , ,O,X, , ,
+4  ,X,X,O, , ,
+5  ,O, , ,X, ,
+6  , ,X, ,O, ,
+7  , ,O, , , ,
+Thinking of a move...
+Depth 0, value: -7, best action: None, elapsed time: 0.000169038772583, states visited: 1
+Depth 1, value: 969, best action: 25E, elapsed time: 0.00251197814941, states visited: 16
+Depth 2, value: 0, best action: 25E, elapsed time: 0.0107049942017, states visited: 80
+Depth 3, value: 956, best action: 56W, elapsed time: 0.105496883392, states visited: 1136
+Depth 4, value: -2, best action: 25E, elapsed time: 0.319264888763, states visited: 3285
+Depth 5, value: 1, best action: 25E, elapsed time: 1.81796479225, states visited: 19166
+Depth 6, value: -8, best action: 56W, elapsed time: 10.5188028812, states visited: 109572
+White (AI) move: 56W
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , ,O,X
+3  , ,O,X, , ,
+4  ,X,X,O, , ,
+5  ,O, , ,X, ,
+6  , ,X,O, , ,
+7  , ,O, , , ,
+Waiting for move from server...
+Black (server) move: 55W
+
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , ,O,X
+3  , ,O,X, , ,
+4  ,X,X,O, , ,
+5  ,O, ,X, , ,
+6  , ,X,O, , ,
+7  , ,O, , , ,
+Thinking of a move...
+Depth 0, value: -10, best action: None, elapsed time: 0.000191926956177, states visited: 1
+Depth 1, value: 963, best action: 25E, elapsed time: 0.00224494934082, states visited: 14
+Depth 2, value: 0, best action: 25E, elapsed time: 0.0090811252594, states visited: 64
+Depth 3, value: 1, best action: 62S, elapsed time: 0.0650708675385, states visited: 648
+Depth 4, value: -8, best action: 62S, elapsed time: 0.122689962387, states visited: 1306
+Depth 5, value: 1, best action: 25E, elapsed time: 0.57243013382, states visited: 5981
+Depth 6, value: -8, best action: 37E, elapsed time: 4.60724782944, states visited: 51398
+Depth 7, value: -1, best action: 44E, elapsed time: 12.861055851, states visited: 139638
+White (AI) move: 44E
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , ,O,X
+3  , ,O,X, , ,
+4  ,X,X, ,O, ,
+5  ,O, ,X, , ,
+6  , ,X,O, , ,
+7  , ,O, , , ,
+Waiting for move from server...
+Black (server) move: 72S
+
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , ,O,
+3  , ,O,X, , ,X
+4  ,X,X, ,O, ,
+5  ,O, ,X, , ,
+6  , ,X,O, , ,
+7  , ,O, , , ,
+Thinking of a move...
+Depth 0, value: -23, best action: None, elapsed time: 0.000175952911377, states visited: 1
+Depth 1, value: 949, best action: 54S, elapsed time: 0.00290107727051, states visited: 18
+Depth 2, value: -14, best action: 54S, elapsed time: 0.0137119293213, states visited: 108
+Depth 3, value: -5, best action: 62S, elapsed time: 0.0519788265228, states visited: 538
+Depth 4, value: -10, best action: 62S, elapsed time: 0.270604848862, states visited: 2442
+Depth 5, value: 952, best action: 62S, elapsed time: 1.1582069397, states visited: 12312
+Depth 6, value: -9, best action: 62S, elapsed time: 3.21564698219, states visited: 35039
+Depth 7, value: 3, best action: 62S, elapsed time: 12.8669741154, states visited: 141765
+White (AI) move: 62S
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , , ,
+3  , ,O,X, ,O,X
+4  ,X,X, ,O, ,
+5  ,O, ,X, , ,
+6  , ,X,O, , ,
+7  , ,O, , , ,
+Waiting for move from server...
+Black (server) move: 45E
+
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , , ,
+3  , ,O,X, ,O,X
+4  ,X,X, ,O, ,
+5  ,O, , ,X, ,
+6  , ,X,O, , ,
+7  , ,O, , , ,
+Thinking of a move...
+Depth 0, value: -10, best action: None, elapsed time: 0.000169992446899, states visited: 1
+Depth 1, value: 963, best action: 46N, elapsed time: 0.00284600257874, states visited: 17
+Depth 2, value: -2, best action: 46N, elapsed time: 0.0148839950562, states visited: 127
+Depth 3, value: 953, best action: 54W, elapsed time: 0.128834962845, states visited: 1333
+Depth 4, value: 0, best action: 46N, elapsed time: 0.655112028122, states visited: 5403
+Depth 5, value: 3, best action: 54W, elapsed time: 2.92763400078, states visited: 23202
+Depth 6, value: -4, best action: 54W, elapsed time: 8.71580505371, states visited: 82920
+White (AI) move: 54W
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , , ,
+3  , ,O,X, ,O,X
+4  ,X,X,O, , ,
+5  ,O, , ,X, ,
+6  , ,X,O, , ,
+7  , ,O, , , ,
+Waiting for move from server...
+Black (server) move: 73S
+
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , , ,
+3  , ,O,X, ,O,
+4  ,X,X,O, , ,X
+5  ,O, , ,X, ,
+6  , ,X,O, , ,
+7  , ,O, , , ,
+Thinking of a move...
+Depth 0, value: -4, best action: None, elapsed time: 0.000171899795532, states visited: 1
+Depth 1, value: 964, best action: 37E, elapsed time: 0.00268507003784, states visited: 17
+Depth 2, value: -8, best action: 63W, elapsed time: 0.0127880573273, states visited: 92
+Depth 3, value: 959, best action: 46N, elapsed time: 0.0943329334259, states visited: 802
+Depth 4, value: -2, best action: 25E, elapsed time: 0.213599920273, states visited: 2059
+Depth 5, value: 3, best action: 63W, elapsed time: 2.51023697853, states visited: 25539
+Depth 6, value: -6, best action: 63W, elapsed time: 4.72590398788, states visited: 51104
+White (AI) move: 63W
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , , ,
+3  , ,O,X,O, ,
+4  ,X,X,O, , ,X
+5  ,O, , ,X, ,
+6  , ,X,O, , ,
+7  , ,O, , , ,
+Waiting for move from server...
+Black (server) move: 74W
+
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , , ,
+3  , ,O,X,O, ,
+4  ,X,X,O, ,X,
+5  ,O, , ,X, ,
+6  , ,X,O, , ,
+7  , ,O, , , ,
+Thinking of a move...
+Depth 0, value: -6, best action: None, elapsed time: 0.000171899795532, states visited: 1
+Depth 1, value: 964, best action: 25E, elapsed time: 0.00249886512756, states visited: 16
+Depth 2, value: -2, best action: 25E, elapsed time: 0.011666059494, states visited: 96
+Depth 3, value: 956, best action: 37E, elapsed time: 0.130013942719, states visited: 1390
+Depth 4, value: -6, best action: 25E, elapsed time: 0.345700025558, states visited: 3679
+Depth 5, value: 963, best action: 25E, elapsed time: 2.07807898521, states visited: 23020
+Depth 6, value: -4, best action: 25E, elapsed time: 9.04333901405, states visited: 96804
+White (AI) move: 25E
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , , ,
+3  , ,O,X,O, ,
+4  ,X,X,O, ,X,
+5  , ,O, ,X, ,
+6  , ,X,O, , ,
+7  , ,O, , , ,
+Waiting for move from server...
+Black (server) move: 55W
+
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , , ,
+3  , ,O,X,O, ,
+4  ,X,X,O, ,X,
+5  , ,O,X, , ,
+6  , ,X,O, , ,
+7  , ,O, , , ,
+Thinking of a move...
+Depth 0, value: 960, best action: None, elapsed time: 0.000151872634888, states visited: 1
+Depth 1, value: 961, best action: 37E, elapsed time: 0.00181794166565, states visited: 12
+Depth 2, value: -6, best action: 37E, elapsed time: 0.00994396209717, states visited: 79
+Depth 3, value: 963, best action: 37W, elapsed time: 0.049978017807, states visited: 469
+Depth 4, value: -4, best action: 46E, elapsed time: 0.201183080673, states visited: 2137
+Depth 5, value: 1, best action: 37W, elapsed time: 1.43614602089, states visited: 16298
+Depth 6, value: -12, best action: 35W, elapsed time: 8.11165499687, states visited: 94841
+White (AI) move: 35W
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , , ,
+3  , ,O,X,O, ,
+4  ,X,X,O, ,X,
+5  ,O, ,X, , ,
+6  , ,X,O, , ,
+7  , ,O, , , ,
+Waiting for move from server...
+Black (server) move: 64W
+
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , , ,
+3  , ,O,X,O, ,
+4  ,X,X,O,X, ,
+5  ,O, ,X, , ,
+6  , ,X,O, , ,
+7  , ,O, , , ,
+Thinking of a move...
+Depth 0, value: -977, best action: None, elapsed time: 0.000170946121216, states visited: 1
+Depth 1, value: -7, best action: 25E, elapsed time: 0.00187397003174, states visited: 12
+Depth 2, value: -6, best action: 25E, elapsed time: 0.00739312171936, states visited: 53
+Depth 3, value: -5, best action: 25E, elapsed time: 0.0567488670349, states visited: 634
+Depth 4, value: -6, best action: 25E, elapsed time: 0.19770693779, states visited: 1979
+Depth 5, value: -3, best action: 25E, elapsed time: 1.13738799095, states visited: 12069
+Depth 6, value: -6, best action: 46E, elapsed time: 5.08885407448, states visited: 58064
+White (AI) move: 46E
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , , ,
+3  , ,O,X,O, ,
+4  ,X,X,O,X, ,
+5  ,O, ,X, , ,
+6  , ,X, ,O, ,
+7  , ,O, , , ,
+Waiting for move from server...
+Black (server) move: 54S
+
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , , ,
+3  , ,O,X,O, ,
+4  ,X,X,O, , ,
+5  ,O, ,X,X, ,
+6  , ,X, ,O, ,
+7  , ,O, , , ,
+Thinking of a move...
+Depth 0, value: -22, best action: None, elapsed time: 0.000173091888428, states visited: 1
+Depth 1, value: 954, best action: 25E, elapsed time: 0.00242519378662, states visited: 15
+Depth 2, value: -8, best action: 25E, elapsed time: 0.00930905342102, states visited: 75
+Depth 3, value: -5, best action: 25E, elapsed time: 0.0669429302216, states visited: 772
+Depth 4, value: -6, best action: 25E, elapsed time: 0.311422109604, states visited: 3119
+Depth 5, value: -3, best action: 25E, elapsed time: 2.30459690094, states visited: 23963
+Depth 6, value: -966, best action: 37E, elapsed time: 9.03373098373, states visited: 100037
+White (AI) move: 37E
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , , ,
+3  , ,O,X,O, ,
+4  ,X,X,O, , ,
+5  ,O, ,X,X, ,
+6  , ,X, ,O, ,
+7  , , ,O, , ,
+Waiting for move from server...
+Black (server) move: 36N
+
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , , ,
+3  , ,O,X,O, ,
+4  ,X,X,O, , ,
+5  ,O,X,X,X, ,
+6  , , , ,O, ,
+7  , , ,O, , ,
+Thinking of a move...
+Depth 0, value: -976, best action: None, elapsed time: 0.000174999237061, states visited: 1
+Depth 1, value: -974, best action: 47N, elapsed time: 0.00243282318115, states visited: 15
+Depth 2, value: -973, best action: 47N, elapsed time: 0.00768613815308, states visited: 58
+Depth 3, value: -9, best action: 47N, elapsed time: 0.0760500431061, states visited: 871
+Depth 4, value: -10, best action: 47N, elapsed time: 0.227971076965, states visited: 2299
+Depth 5, value: -9, best action: 47N, elapsed time: 1.70691990852, states visited: 17775
+Depth 6, value: -14, best action: 53E, elapsed time: 2.10880017281, states visited: 25164
+White (AI) move: 53E
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , , ,
+3  , ,O,X, ,O,
+4  ,X,X,O, , ,
+5  ,O,X,X,X, ,
+6  , , , ,O, ,
+7  , , ,O, , ,
+Waiting for move from server...
+Black (server) move: 43N
+
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , ,X, , ,
+3  , ,O, , ,O,
+4  ,X,X,O, , ,
+5  ,O,X,X,X, ,
+6  , , , ,O, ,
+7  , , ,O, , ,
+Thinking of a move...
+Depth 0, value: -979, best action: None, elapsed time: 0.000177145004272, states visited: 1
+Depth 1, value: -13, best action: 44N, elapsed time: 0.00295805931091, states visited: 18
+Depth 2, value: -14, best action: 44N, elapsed time: 0.00993990898132, states visited: 82
+Depth 3, value: -9, best action: 44N, elapsed time: 0.102671146393, states visited: 1110
+Depth 4, value: -14, best action: 63S, elapsed time: 0.25993514061, states visited: 2520
+Depth 5, value: -9, best action: 63W, elapsed time: 1.84183287621, states visited: 18631
+Depth 6, value: -10, best action: 63W, elapsed time: 4.36255383492, states visited: 49159
+White (AI) move: 63W
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , ,X, , ,
+3  , ,O, ,O, ,
+4  ,X,X,O, , ,
+5  ,O,X,X,X, ,
+6  , , , ,O, ,
+7  , , ,O, , ,
+Waiting for move from server...
+Black (server) move: 24N
+
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , ,X, , ,
+3  ,X,O, ,O, ,
+4  , ,X,O, , ,
+5  ,O,X,X,X, ,
+6  , , , ,O, ,
+7  , , ,O, , ,
+Thinking of a move...
+Depth 0, value: -969, best action: None, elapsed time: 0.000142097473145, states visited: 1
+Depth 1, value: -9, best action: 44N, elapsed time: 0.00292301177979, states visited: 18
+Depth 2, value: -10, best action: 44N, elapsed time: 0.0107398033142, states visited: 75
+Depth 3, value: -5, best action: 44N, elapsed time: 0.0874400138855, states visited: 970
+Depth 4, value: -8, best action: 44N, elapsed time: 0.321259021759, states visited: 3269
+Depth 5, value: -5, best action: 44N, elapsed time: 2.0698018074, states visited: 22391
+Depth 6, value: -10000, best action: 53E, elapsed time: 15.8625700474, states visited: 176740
+White (AI) move: 53E
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , ,X, , ,
+3  ,X,O, , ,O,
+4  , ,X,O, , ,
+5  ,O,X,X,X, ,
+6  , , , ,O, ,
+7  , , ,O, , ,
+Waiting for move from server...
+Black (server) move: 42W
+
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , ,X, , , ,
+3  ,X,O, , ,O,
+4  , ,X,O, , ,
+5  ,O,X,X,X, ,
+6  , , , ,O, ,
+7  , , ,O, , ,
+Thinking of a move...
+Depth 0, value: -977, best action: None, elapsed time: 0.000142097473145, states visited: 1
+Depth 1, value: -11, best action: 44N, elapsed time: 0.00220203399658, states visited: 17
+Depth 2, value: -12, best action: 44N, elapsed time: 0.00965404510498, states visited: 66
+Depth 3, value: -7, best action: 44N, elapsed time: 0.0727250576019, states visited: 780
+Depth 4, value: -10000, best action: 63E, elapsed time: 0.515866994858, states visited: 5772
+Depth 5, value: -10000, best action: 63E, elapsed time: 3.01693797112, states visited: 34001
+Depth 6, value: -10000, best action: 63E, elapsed time: 4.53792691231, states visited: 50335
+White (AI) move: 63E
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , ,X, , , ,
+3  ,X,O, , , ,O
+4  , ,X,O, , ,
+5  ,O,X,X,X, ,
+6  , , , ,O, ,
+7  , , ,O, , ,
+Waiting for move from server...
+Black (server) move: 32W
+
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  ,X, , , , ,
+3  ,X,O, , , ,O
+4  , ,X,O, , ,
+5  ,O,X,X,X, ,
+6  , , , ,O, ,
+7  , , ,O, , ,
+Thinking of a move...
+Depth 0, value: -979, best action: None, elapsed time: 0.000339031219482, states visited: 1
+Depth 1, value: -11, best action: 73S, elapsed time: 0.00375914573669, states visited: 17
+Depth 2, value: -10000, best action: 73W, elapsed time: 0.0112400054932, states visited: 107
+Depth 3, value: -10000, best action: 73W, elapsed time: 0.0936069488525, states visited: 994
+Depth 4, value: -10000, best action: 73W, elapsed time: 0.137473106384, states visited: 1500
+Depth 5, value: -10000, best action: 73W, elapsed time: 0.923403978348, states visited: 9687
+Depth 6, value: -10000, best action: 73W, elapsed time: 0.748040914536, states visited: 9168
+Depth 7, value: -10000, best action: 73W, elapsed time: 3.97003102303, states visited: 40820
+Depth 8, value: -10000, best action: 73W, elapsed time: 4.29475522041, states visited: 51978
+White (AI) move: 73W
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  ,X, , , , ,
+3  ,X,O, , ,O,
+4  , ,X,O, , ,
+5  ,O,X,X,X, ,
+6  , , , ,O, ,
+7  , , ,O, , ,
+Waiting for move from server...
+Black (server) move: 22W
+
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2 X, , , , , ,
+3  ,X,O, , ,O,
+4  , ,X,O, , ,
+5  ,O,X,X,X, ,
+6  , , , ,O, ,
+7  , , ,O, , ,
+Black wins!
+
+Process finished with exit code 0

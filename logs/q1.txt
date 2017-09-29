@@ -1,0 +1,84 @@
+Question 1
+Initial state A
+  1 2 3 4 5 6 7 
+1  , , , , , , 
+2  , , , , , , 
+3 O, ,X, , , , 
+4  , , ,O, , ,X
+5  , , , ,O,X,X
+6  , ,O, , ,O,X
+7  , , ,X,O, , 
+Minimax explored 3307 nodes to return 10000 for a depth cutoff of 3 in 0.120000123978 seconds.
+Negamax explored 429 nodes to return 10000 for a depth cutoff of 3 in 0.0549998283386 seconds.
+Minimax explored 21356 nodes to return 10000 for a depth cutoff of 4 in 0.653000116348 seconds.
+Negamax explored 845 nodes to return 10000 for a depth cutoff of 4 in 0.1859998703 seconds.
+Minimax explored 182980 nodes to return 10000 for a depth cutoff of 5 in 5.5529999733 seconds.
+Negamax explored 4317 nodes to return 10000 for a depth cutoff of 5 in 0.552000045776 seconds.
+Minimax explored 890192 nodes to return 10000 for a depth cutoff of 6 in 25.6360001564 seconds.
+Negamax explored 8665 nodes to return 10000 for a depth cutoff of 6 in 1.88399982452 seconds.
+Minimax q1A
+3,3307
+4,21356
+5,182980
+6,890192
+Alphabeta q1A
+3,429
+4,845
+5,4317
+6,8665
+Initial state B
+  1 2 3 4 5 6 7 
+1 O,O, , , , , 
+2 X, , , , , , 
+3  , ,X, , ,O, 
+4  , ,X,O, , ,X
+5  , , , ,O,X, 
+6  ,X, , , , , 
+7 O, , , , , , 
+Minimax explored 3522 nodes to return 0 for a depth cutoff of 3 in 0.108999967575 seconds.
+Negamax explored 302 nodes to return -9 for a depth cutoff of 3 in 0.0680000782013 seconds.
+Minimax explored 33443 nodes to return 0 for a depth cutoff of 4 in 0.983000040054 seconds.
+Negamax explored 756 nodes to return -24 for a depth cutoff of 4 in 0.213000059128 seconds.
+Minimax explored 258959 nodes to return 0 for a depth cutoff of 5 in 7.54799985886 seconds.
+Negamax explored 3335 nodes to return -17 for a depth cutoff of 5 in 0.736000061035 seconds.
+Minimax explored 1712910 nodes to return 0 for a depth cutoff of 6 in 48.3629999161 seconds.
+Negamax explored 10728 nodes to return -20 for a depth cutoff of 6 in 2.23200011253 seconds.
+Minimax q1B
+3,3522
+4,33443
+5,258959
+6,1712910
+Alphabeta q1B
+3,302
+4,756
+5,3335
+6,10728
+Initial state C
+  1 2 3 4 5 6 7 
+1  , ,O, ,X, , 
+2  , ,O, ,X, , 
+3  , ,X, ,O, , 
+4  , ,X, ,O, , 
+5  , , , , , , 
+6  , ,O, ,X, , 
+7  , ,X, ,O, , 
+Minimax explored 3237 nodes to return 10000 for a depth cutoff of 3 in 0.0999999046326 seconds.
+Negamax explored 342 nodes to return 10000 for a depth cutoff of 3 in 0.0529999732971 seconds.
+Minimax explored 29779 nodes to return 10000 for a depth cutoff of 4 in 0.876000165939 seconds.
+Negamax explored 829 nodes to return 10000 for a depth cutoff of 4 in 0.251999855042 seconds.
+Minimax explored 263862 nodes to return 10000 for a depth cutoff of 5 in 7.65799999237 seconds.
+Negamax explored 4055 nodes to return 10000 for a depth cutoff of 5 in 0.68499994278 seconds.
+Minimax explored 1734246 nodes to return 10000 for a depth cutoff of 6 in 49.7600002289 seconds.
+Negamax explored 10222 nodes to return 10000 for a depth cutoff of 6 in 2.83199977875 seconds.
+Minimax q1C
+3,3237
+4,29779
+5,263862
+6,1734246
+Alphabeta q1C
+3,342
+4,829
+5,4055
+6,10222
+
+Process finished with exit code 0

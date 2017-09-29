@@ -1,0 +1,66 @@
+Question 3
+Initial state A
+  1 2 3 4 5 6 7 
+1  , , , , , , 
+2  , , , , , , 
+3 O, ,X, , , , 
+4  , , ,O, , ,X
+5  , , , ,O,X,X
+6  , ,O, , ,O,X
+7  , , ,X,O, , 
+Negamax explored 552 nodes to return 10000 for a depth cutoff of 3 in 0.0349998474121 seconds with ordering NO_ORDER.
+Negamax explored 429 nodes to return 10000 for a depth cutoff of 3 in 0.0520000457764 seconds with ordering SORTED_ORDER.
+Negamax explored 568 nodes to return 10000 for a depth cutoff of 3 in 0.0490000247955 seconds with ordering RANDOM_ORDER.
+Negamax explored 1168 nodes to return 10000 for a depth cutoff of 4 in 0.0769999027252 seconds with ordering NO_ORDER.
+Negamax explored 845 nodes to return 10000 for a depth cutoff of 4 in 0.192000150681 seconds with ordering SORTED_ORDER.
+Negamax explored 1872 nodes to return 10000 for a depth cutoff of 4 in 0.131000041962 seconds with ordering RANDOM_ORDER.
+Negamax explored 5411 nodes to return 10000 for a depth cutoff of 5 in 0.328999996185 seconds with ordering NO_ORDER.
+Negamax explored 4317 nodes to return 10000 for a depth cutoff of 5 in 0.561999797821 seconds with ordering SORTED_ORDER.
+Negamax explored 12768 nodes to return 10000 for a depth cutoff of 5 in 0.863000154495 seconds with ordering RANDOM_ORDER.
+Negamax explored 12874 nodes to return 10000 for a depth cutoff of 6 in 0.783999919891 seconds with ordering NO_ORDER.
+Negamax explored 8665 nodes to return 10000 for a depth cutoff of 6 in 1.86100006104 seconds with ordering SORTED_ORDER.
+Negamax explored 33673 nodes to return 10000 for a depth cutoff of 6 in 2.37299990654 seconds with ordering RANDOM_ORDER.
+Initial state B
+  1 2 3 4 5 6 7 
+1 O,O, , , , , 
+2 X, , , , , , 
+3  , ,X, , ,O, 
+4  , ,X,O, , ,X
+5  , , , ,O,X, 
+6  ,X, , , , , 
+7 O, , , , , , 
+Negamax explored 900 nodes to return -9 for a depth cutoff of 3 in 0.0759999752045 seconds with ordering NO_ORDER.
+Negamax explored 302 nodes to return -9 for a depth cutoff of 3 in 0.0709998607635 seconds with ordering SORTED_ORDER.
+Negamax explored 793 nodes to return -9 for a depth cutoff of 3 in 0.085000038147 seconds with ordering RANDOM_ORDER.
+Negamax explored 2785 nodes to return -24 for a depth cutoff of 4 in 0.226999998093 seconds with ordering NO_ORDER.
+Negamax explored 756 nodes to return -24 for a depth cutoff of 4 in 0.209000110626 seconds with ordering SORTED_ORDER.
+Negamax explored 4245 nodes to return -24 for a depth cutoff of 4 in 0.358999967575 seconds with ordering RANDOM_ORDER.
+Negamax explored 9516 nodes to return -17 for a depth cutoff of 5 in 0.754999876022 seconds with ordering NO_ORDER.
+Negamax explored 3335 nodes to return -17 for a depth cutoff of 5 in 0.719000101089 seconds with ordering SORTED_ORDER.
+Negamax explored 25611 nodes to return -17 for a depth cutoff of 5 in 2.10500001907 seconds with ordering RANDOM_ORDER.
+Negamax explored 54628 nodes to return -20 for a depth cutoff of 6 in 4.45299983025 seconds with ordering NO_ORDER.
+Negamax explored 10728 nodes to return -20 for a depth cutoff of 6 in 2.22900009155 seconds with ordering SORTED_ORDER.
+Negamax explored 141398 nodes to return -20 for a depth cutoff of 6 in 11.6819999218 seconds with ordering RANDOM_ORDER.
+Initial state C
+  1 2 3 4 5 6 7 
+1  , ,O, ,X, , 
+2  , ,O, ,X, , 
+3  , ,X, ,O, , 
+4  , ,X, ,O, , 
+5  , , , , , , 
+6  , ,O, ,X, , 
+7  , ,X, ,O, , 
+Negamax explored 489 nodes to return 10000 for a depth cutoff of 3 in 0.0369999408722 seconds with ordering NO_ORDER.
+Negamax explored 342 nodes to return 10000 for a depth cutoff of 3 in 0.0520000457764 seconds with ordering SORTED_ORDER.
+Negamax explored 546 nodes to return 10000 for a depth cutoff of 3 in 0.0429999828339 seconds with ordering RANDOM_ORDER.
+Negamax explored 1983 nodes to return 10000 for a depth cutoff of 4 in 0.160000085831 seconds with ordering NO_ORDER.
+Negamax explored 829 nodes to return 10000 for a depth cutoff of 4 in 0.253999948502 seconds with ordering SORTED_ORDER.
+Negamax explored 3929 nodes to return 10000 for a depth cutoff of 4 in 0.304000139236 seconds with ordering RANDOM_ORDER.
+Negamax explored 11193 nodes to return 10000 for a depth cutoff of 5 in 0.87099981308 seconds with ordering NO_ORDER.
+Negamax explored 4055 nodes to return 10000 for a depth cutoff of 5 in 0.679999828339 seconds with ordering SORTED_ORDER.
+Negamax explored 7463 nodes to return 10000 for a depth cutoff of 5 in 0.580000162125 seconds with ordering RANDOM_ORDER.
+Negamax explored 42802 nodes to return 10000 for a depth cutoff of 6 in 3.24499988556 seconds with ordering NO_ORDER.
+Negamax explored 10222 nodes to return 10000 for a depth cutoff of 6 in 2.83700013161 seconds with ordering SORTED_ORDER.
+Negamax explored 64108 nodes to return 10000 for a depth cutoff of 6 in 5.11099982262 seconds with ordering RANDOM_ORDER.
+
+Process finished with exit code 0

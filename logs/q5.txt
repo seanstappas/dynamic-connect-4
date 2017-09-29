@@ -1,0 +1,1245 @@
+Question 5
+Initial state A
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , , , ,
+3 O, ,X, , , ,
+4  , , ,O, , ,X
+5  , , , ,O,X,X
+6  , ,O, , ,O,X
+7  , , ,X,O, ,
+Depth 0, value: 13, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 18, best action: 13E, elapsed time: 0.00200009346008, states visited: 19
+Depth 2, value: 13, best action: 13E, elapsed time: 0.00999999046326, states visited: 45
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0549998283386, states visited: 429
+Win found for white player with move 66W
+Negamax explored 494 nodes in 0.066999912262 seconds with DEFAULT heuristic.
+Depth 0, value: -1617, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 8932, best action: 57E, elapsed time: 0.00100016593933, states visited: 19
+Depth 2, value: -5201, best action: 57N, elapsed time: 0.00499987602234, states visited: 117
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0420000553131, states visited: 738
+Win found for white player with move 44E
+Negamax explored 875 nodes in 0.0480000972748 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 13E, elapsed time: 0.000999927520752, states visited: 19
+Depth 2, value: 0, best action: 13E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0429999828339, states visited: 380
+Win found for white player with move 44E
+Negamax explored 445 nodes in 0.0529999732971 seconds with WIN_LOSS heuristic.
+Depth 0, value: 13, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 18, best action: 13E, elapsed time: 0.00200009346008, states visited: 19
+Depth 2, value: 13, best action: 13E, elapsed time: 0.00899982452393, states visited: 45
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0530002117157, states visited: 429
+Win found for white player with move 66W
+Negamax explored 494 nodes in 0.0640001296997 seconds with DEFAULT heuristic.
+Depth 0, value: 6378, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 8351, best action: 55W, elapsed time: 0.000999927520752, states visited: 19
+Depth 2, value: -4439, best action: 13N, elapsed time: 0.00399994850159, states visited: 80
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0269999504089, states visited: 586
+Win found for white player with move 44E
+Negamax explored 686 nodes in 0.0319998264313 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 13E, elapsed time: 0.00200009346008, states visited: 19
+Depth 2, value: 0, best action: 13E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0429999828339, states visited: 380
+Win found for white player with move 44E
+Negamax explored 445 nodes in 0.0540001392365 seconds with WIN_LOSS heuristic.
+Depth 0, value: 13, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 18, best action: 13E, elapsed time: 0.0019998550415, states visited: 19
+Depth 2, value: 13, best action: 13E, elapsed time: 0.0120000839233, states visited: 45
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0520000457764, states visited: 429
+Win found for white player with move 66W
+Negamax explored 494 nodes in 0.0659999847412 seconds with DEFAULT heuristic.
+Depth 0, value: -6149, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 8521, best action: 36W, elapsed time: 0.000999927520752, states visited: 19
+Depth 2, value: -3674, best action: 13N, elapsed time: 0.00500011444092, states visited: 115
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0189998149872, states visited: 475
+Win found for white player with move 66W
+Negamax explored 610 nodes in 0.0249998569489 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 13E, elapsed time: 0.00200009346008, states visited: 19
+Depth 2, value: 0, best action: 13E, elapsed time: 0.00799989700317, states visited: 45
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0430002212524, states visited: 380
+Win found for white player with move 44E
+Negamax explored 445 nodes in 0.0530002117157 seconds with WIN_LOSS heuristic.
+Depth 0, value: 13, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 18, best action: 13E, elapsed time: 0.0019998550415, states visited: 19
+Depth 2, value: 13, best action: 13E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0529999732971, states visited: 429
+Win found for white player with move 66W
+Negamax explored 494 nodes in 0.0639998912811 seconds with DEFAULT heuristic.
+Depth 0, value: -1274, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9400, best action: 44E, elapsed time: 0.0, states visited: 19
+Depth 2, value: -4937, best action: 57E, elapsed time: 0.00600004196167, states visited: 126
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0199999809265, states visited: 504
+Win found for white player with move 66W
+Negamax explored 650 nodes in 0.0260000228882 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 13E, elapsed time: 0.0019998550415, states visited: 19
+Depth 2, value: 0, best action: 13E, elapsed time: 0.00800013542175, states visited: 45
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0429999828339, states visited: 380
+Win found for white player with move 44E
+Negamax explored 445 nodes in 0.0529999732971 seconds with WIN_LOSS heuristic.
+Depth 0, value: 13, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 18, best action: 13E, elapsed time: 0.00200009346008, states visited: 19
+Depth 2, value: 13, best action: 13E, elapsed time: 0.00899982452393, states visited: 45
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0540001392365, states visited: 429
+Win found for white player with move 66W
+Negamax explored 494 nodes in 0.0650000572205 seconds with DEFAULT heuristic.
+Depth 0, value: 1397, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 7819, best action: 57N, elapsed time: 0.000999927520752, states visited: 19
+Depth 2, value: -3893, best action: 13S, elapsed time: 0.00500011444092, states visited: 97
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.039999961853, states visited: 993
+Win found for white player with move 44E
+Negamax explored 1110 nodes in 0.0460000038147 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 13E, elapsed time: 0.000999927520752, states visited: 19
+Depth 2, value: 0, best action: 13E, elapsed time: 0.00999999046326, states visited: 45
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0429999828339, states visited: 380
+Win found for white player with move 44E
+Negamax explored 445 nodes in 0.0539999008179 seconds with WIN_LOSS heuristic.
+Depth 0, value: 13, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 18, best action: 13E, elapsed time: 0.000999927520752, states visited: 19
+Depth 2, value: 13, best action: 13E, elapsed time: 0.00999999046326, states visited: 45
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0530002117157, states visited: 429
+Win found for white player with move 66W
+Negamax explored 494 nodes in 0.0640001296997 seconds with DEFAULT heuristic.
+Depth 0, value: 2091, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9535, best action: 36S, elapsed time: 0.000999927520752, states visited: 19
+Depth 2, value: -4402, best action: 13S, elapsed time: 0.00399994850159, states visited: 79
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0329999923706, states visited: 832
+Win found for white player with move 66W
+Negamax explored 931 nodes in 0.0379998683929 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 13E, elapsed time: 0.00200009346008, states visited: 19
+Depth 2, value: 0, best action: 13E, elapsed time: 0.00799989700317, states visited: 45
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0429999828339, states visited: 380
+Win found for white player with move 44E
+Negamax explored 445 nodes in 0.0529999732971 seconds with WIN_LOSS heuristic.
+Depth 0, value: 13, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 18, best action: 13E, elapsed time: 0.00200009346008, states visited: 19
+Depth 2, value: 13, best action: 13E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0529999732971, states visited: 429
+Win found for white player with move 66W
+Negamax explored 494 nodes in 0.0650000572205 seconds with DEFAULT heuristic.
+Depth 0, value: 374, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 7799, best action: 44N, elapsed time: 0.0, states visited: 19
+Depth 2, value: -3462, best action: 55S, elapsed time: 0.00600004196167, states visited: 143
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0360000133514, states visited: 887
+Win found for white player with move 66W
+Negamax explored 1050 nodes in 0.0429999828339 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 13E, elapsed time: 0.00300002098083, states visited: 19
+Depth 2, value: 0, best action: 13E, elapsed time: 0.00799989700317, states visited: 45
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0430002212524, states visited: 380
+Win found for white player with move 44E
+Negamax explored 445 nodes in 0.0540001392365 seconds with WIN_LOSS heuristic.
+Depth 0, value: 13, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 18, best action: 13E, elapsed time: 0.000999927520752, states visited: 19
+Depth 2, value: 13, best action: 13E, elapsed time: 0.00999999046326, states visited: 45
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0520000457764, states visited: 429
+Win found for white player with move 66W
+Negamax explored 494 nodes in 0.0629999637604 seconds with DEFAULT heuristic.
+Depth 0, value: -9471, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9274, best action: 44E, elapsed time: 0.000999927520752, states visited: 19
+Depth 2, value: -6428, best action: 36E, elapsed time: 0.00499987602234, states visited: 112
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.018000125885, states visited: 452
+Win found for white player with move 44E
+Negamax explored 584 nodes in 0.0239999294281 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 13E, elapsed time: 0.00200009346008, states visited: 19
+Depth 2, value: 0, best action: 13E, elapsed time: 0.00799989700317, states visited: 45
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0469999313354, states visited: 380
+Win found for white player with move 44E
+Negamax explored 445 nodes in 0.0569999217987 seconds with WIN_LOSS heuristic.
+Depth 0, value: 13, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 18, best action: 13E, elapsed time: 0.00200009346008, states visited: 19
+Depth 2, value: 13, best action: 13E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0519998073578, states visited: 429
+Win found for white player with move 66W
+Negamax explored 494 nodes in 0.0629999637604 seconds with DEFAULT heuristic.
+Depth 0, value: 8905, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9835, best action: 36N, elapsed time: 0.00100016593933, states visited: 19
+Depth 2, value: -5319, best action: 57E, elapsed time: 0.00600004196167, states visited: 120
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0449998378754, states visited: 1070
+Win found for white player with move 44E
+Negamax explored 1210 nodes in 0.0520000457764 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 13E, elapsed time: 0.00200009346008, states visited: 19
+Depth 2, value: 0, best action: 13E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0429999828339, states visited: 380
+Win found for white player with move 44E
+Negamax explored 445 nodes in 0.0540001392365 seconds with WIN_LOSS heuristic.
+Depth 0, value: 13, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 18, best action: 13E, elapsed time: 0.0019998550415, states visited: 19
+Depth 2, value: 13, best action: 13E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0550000667572, states visited: 429
+Win found for white player with move 66W
+Negamax explored 494 nodes in 0.066999912262 seconds with DEFAULT heuristic.
+Depth 0, value: 8976, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9056, best action: 36N, elapsed time: 0.000999927520752, states visited: 19
+Depth 2, value: -2890, best action: 36E, elapsed time: 0.00600004196167, states visited: 93
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0320000648499, states visited: 773
+Win found for white player with move 44E
+Negamax explored 886 nodes in 0.0390000343323 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 13E, elapsed time: 0.000999927520752, states visited: 19
+Depth 2, value: 0, best action: 13E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0450000762939, states visited: 380
+Win found for white player with move 44E
+Negamax explored 445 nodes in 0.0550000667572 seconds with WIN_LOSS heuristic.
+Depth 0, value: 13, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 18, best action: 13E, elapsed time: 0.000999927520752, states visited: 19
+Depth 2, value: 13, best action: 13E, elapsed time: 0.00999999046326, states visited: 45
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.055999994278, states visited: 429
+Win found for white player with move 66W
+Negamax explored 494 nodes in 0.066999912262 seconds with DEFAULT heuristic.
+Depth 0, value: -4933, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9184, best action: 55S, elapsed time: 0.000999927520752, states visited: 19
+Depth 2, value: -6081, best action: 44W, elapsed time: 0.00500011444092, states visited: 113
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0299999713898, states visited: 695
+Win found for white player with move 66W
+Negamax explored 828 nodes in 0.0369999408722 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 13E, elapsed time: 0.00100016593933, states visited: 19
+Depth 2, value: 0, best action: 13E, elapsed time: 0.00899982452393, states visited: 45
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0440001487732, states visited: 380
+Win found for white player with move 44E
+Negamax explored 445 nodes in 0.0540001392365 seconds with WIN_LOSS heuristic.
+Depth 0, value: 13, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 18, best action: 13E, elapsed time: 0.0019998550415, states visited: 19
+Depth 2, value: 13, best action: 13E, elapsed time: 0.00999999046326, states visited: 45
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0550000667572, states visited: 429
+Win found for white player with move 66W
+Negamax explored 494 nodes in 0.066999912262 seconds with DEFAULT heuristic.
+Depth 0, value: -8105, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9773, best action: 44N, elapsed time: 0.0, states visited: 19
+Depth 2, value: -3308, best action: 13E, elapsed time: 0.00500011444092, states visited: 96
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0169999599457, states visited: 415
+Win found for white player with move 44E
+Negamax explored 531 nodes in 0.0220000743866 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 13E, elapsed time: 0.0019998550415, states visited: 19
+Depth 2, value: 0, best action: 13E, elapsed time: 0.00800013542175, states visited: 45
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0449998378754, states visited: 380
+Win found for white player with move 44E
+Negamax explored 445 nodes in 0.0549998283386 seconds with WIN_LOSS heuristic.
+Depth 0, value: 13, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 18, best action: 13E, elapsed time: 0.00200009346008, states visited: 19
+Depth 2, value: 13, best action: 13E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0549998283386, states visited: 429
+Win found for white player with move 66W
+Negamax explored 494 nodes in 0.0659999847412 seconds with DEFAULT heuristic.
+Depth 0, value: 7919, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9894, best action: 36E, elapsed time: 0.00100016593933, states visited: 19
+Depth 2, value: -4052, best action: 13N, elapsed time: 0.00499987602234, states visited: 78
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0340001583099, states visited: 782
+Win found for white player with move 66W
+Negamax explored 880 nodes in 0.0400002002716 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 13E, elapsed time: 0.0019998550415, states visited: 19
+Depth 2, value: 0, best action: 13E, elapsed time: 0.00800013542175, states visited: 45
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0439999103546, states visited: 380
+Win found for white player with move 44E
+Negamax explored 445 nodes in 0.0539999008179 seconds with WIN_LOSS heuristic.
+Depth 0, value: 13, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 18, best action: 13E, elapsed time: 0.00200009346008, states visited: 19
+Depth 2, value: 13, best action: 13E, elapsed time: 0.00899982452393, states visited: 45
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0520000457764, states visited: 429
+Win found for white player with move 66W
+Negamax explored 494 nodes in 0.0629999637604 seconds with DEFAULT heuristic.
+Depth 0, value: -6735, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9702, best action: 36S, elapsed time: 0.00100016593933, states visited: 19
+Depth 2, value: -2663, best action: 44E, elapsed time: 0.00499987602234, states visited: 119
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0209999084473, states visited: 488
+Win found for white player with move 44E
+Negamax explored 627 nodes in 0.0269999504089 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 13E, elapsed time: 0.00200009346008, states visited: 19
+Depth 2, value: 0, best action: 13E, elapsed time: 0.00799989700317, states visited: 45
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0420000553131, states visited: 380
+Win found for white player with move 44E
+Negamax explored 445 nodes in 0.0520000457764 seconds with WIN_LOSS heuristic.
+Depth 0, value: 13, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 18, best action: 13E, elapsed time: 0.00200009346008, states visited: 19
+Depth 2, value: 13, best action: 13E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0539999008179, states visited: 429
+Win found for white player with move 66W
+Negamax explored 494 nodes in 0.0650000572205 seconds with DEFAULT heuristic.
+Depth 0, value: 8781, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 8728, best action: 55N, elapsed time: 0.000999927520752, states visited: 19
+Depth 2, value: -6541, best action: 13N, elapsed time: 0.00500011444092, states visited: 109
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0239999294281, states visited: 581
+Win found for white player with move 66W
+Negamax explored 710 nodes in 0.0299999713898 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 13E, elapsed time: 0.000999927520752, states visited: 19
+Depth 2, value: 0, best action: 13E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0420000553131, states visited: 380
+Win found for white player with move 44E
+Negamax explored 445 nodes in 0.0520000457764 seconds with WIN_LOSS heuristic.
+Depth 0, value: 13, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 18, best action: 13E, elapsed time: 0.00200009346008, states visited: 19
+Depth 2, value: 13, best action: 13E, elapsed time: 0.00899982452393, states visited: 45
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0529999732971, states visited: 429
+Win found for white player with move 66W
+Negamax explored 494 nodes in 0.0639998912811 seconds with DEFAULT heuristic.
+Depth 0, value: -1363, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9805, best action: 55N, elapsed time: 0.0, states visited: 19
+Depth 2, value: -5610, best action: 55N, elapsed time: 0.00399994850159, states visited: 97
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0279998779297, states visited: 690
+Win found for white player with move 44E
+Negamax explored 807 nodes in 0.0329999923706 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 13E, elapsed time: 0.00200009346008, states visited: 19
+Depth 2, value: 0, best action: 13E, elapsed time: 0.00799989700317, states visited: 45
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0420000553131, states visited: 380
+Win found for white player with move 44E
+Negamax explored 445 nodes in 0.0520000457764 seconds with WIN_LOSS heuristic.
+Depth 0, value: 13, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 18, best action: 13E, elapsed time: 0.00200009346008, states visited: 19
+Depth 2, value: 13, best action: 13E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0519998073578, states visited: 429
+Win found for white player with move 66W
+Negamax explored 494 nodes in 0.0629999637604 seconds with DEFAULT heuristic.
+Depth 0, value: 6404, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9320, best action: 36W, elapsed time: 0.0, states visited: 19
+Depth 2, value: -2599, best action: 55N, elapsed time: 0.00399994850159, states visited: 80
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0190000534058, states visited: 445
+Win found for white player with move 66W
+Negamax explored 545 nodes in 0.0240001678467 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 13E, elapsed time: 0.000999927520752, states visited: 19
+Depth 2, value: 0, best action: 13E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0419998168945, states visited: 380
+Win found for white player with move 44E
+Negamax explored 445 nodes in 0.0519998073578 seconds with WIN_LOSS heuristic.
+Depth 0, value: 13, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 18, best action: 13E, elapsed time: 0.00200009346008, states visited: 19
+Depth 2, value: 13, best action: 13E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0520000457764, states visited: 429
+Win found for white player with move 66W
+Negamax explored 494 nodes in 0.063000202179 seconds with DEFAULT heuristic.
+Depth 0, value: 7973, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9413, best action: 36W, elapsed time: 0.000999927520752, states visited: 19
+Depth 2, value: -5226, best action: 57E, elapsed time: 0.00600004196167, states visited: 112
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0339999198914, states visited: 803
+Win found for white player with move 44E
+Negamax explored 935 nodes in 0.0409998893738 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 13E, elapsed time: 0.000999927520752, states visited: 19
+Depth 2, value: 0, best action: 13E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0420000553131, states visited: 380
+Win found for white player with move 44E
+Negamax explored 445 nodes in 0.0520000457764 seconds with WIN_LOSS heuristic.
+Depth 0, value: 13, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 18, best action: 13E, elapsed time: 0.0019998550415, states visited: 19
+Depth 2, value: 13, best action: 13E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0520000457764, states visited: 429
+Win found for white player with move 66W
+Negamax explored 494 nodes in 0.0629999637604 seconds with DEFAULT heuristic.
+Depth 0, value: 1580, best action: None, elapsed time: 0.000999927520752, states visited: 1
+Depth 1, value: 9972, best action: 55N, elapsed time: 0.0, states visited: 19
+Depth 2, value: -3242, best action: 36E, elapsed time: 0.00400018692017, states visited: 60
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0299999713898, states visited: 712
+Win found for white player with move 44E
+Negamax explored 792 nodes in 0.0350000858307 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 13E, elapsed time: 0.000999927520752, states visited: 19
+Depth 2, value: 0, best action: 13E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0419998168945, states visited: 380
+Win found for white player with move 44E
+Negamax explored 445 nodes in 0.0519998073578 seconds with WIN_LOSS heuristic.
+Depth 0, value: 13, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 18, best action: 13E, elapsed time: 0.00200009346008, states visited: 19
+Depth 2, value: 13, best action: 13E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 10000, best action: 66W, elapsed time: 0.0529999732971, states visited: 429
+Win found for white player with move 66W
+Negamax explored 494 nodes in 0.0640001296997 seconds with DEFAULT heuristic.
+Depth 0, value: -8883, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9504, best action: 44W, elapsed time: 0.000999927520752, states visited: 19
+Depth 2, value: -2648, best action: 44S, elapsed time: 0.00500011444092, states visited: 103
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.029000043869, states visited: 734
+Win found for white player with move 44E
+Negamax explored 857 nodes in 0.0350000858307 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 13E, elapsed time: 0.0019998550415, states visited: 19
+Depth 2, value: 0, best action: 13E, elapsed time: 0.00800013542175, states visited: 45
+Depth 3, value: 10000, best action: 44E, elapsed time: 0.0429999828339, states visited: 380
+Win found for white player with move 44E
+Negamax explored 445 nodes in 0.0539999008179 seconds with WIN_LOSS heuristic.
+Initial state B
+  1 2 3 4 5 6 7
+1 O,O, , , , ,
+2 X, , , , , ,
+3  , ,X, , ,O,
+4  , ,X,O, , ,X
+5  , , , ,O,X,
+6  ,X, , , , ,
+7 O, , , , , ,
+Depth 0, value: -21, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: -12, best action: 63W, elapsed time: 0.00300002098083, states visited: 15
+Depth 2, value: -982, best action: 63W, elapsed time: 0.0190000534058, states visited: 45
+Depth 3, value: -9, best action: 55W, elapsed time: 0.077999830246, states visited: 302
+Depth 4, value: -24, best action: 63W, elapsed time: 0.272000074387, states visited: 756
+Negamax explored 3889 nodes in 1.0 seconds with DEFAULT heuristic.
+Depth 0, value: -9673, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9922, best action: 55N, elapsed time: 0.0, states visited: 15
+Depth 2, value: -5981, best action: 63W, elapsed time: 0.00600004196167, states visited: 149
+Depth 3, value: 7371, best action: 21E, elapsed time: 0.0480000972748, states visited: 1190
+Depth 4, value: -7936, best action: 63E, elapsed time: 0.444999933243, states visited: 10676
+Negamax explored 23671 nodes in 1.0 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 21E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: 0, best action: 21E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 0, best action: 21E, elapsed time: 0.0310001373291, states visited: 257
+Depth 4, value: 0, best action: 21E, elapsed time: 0.118999958038, states visited: 676
+Depth 5, value: 0, best action: 21E, elapsed time: 0.330999851227, states visited: 2577
+Negamax explored 7554 nodes in 1.0 seconds with WIN_LOSS heuristic.
+Depth 0, value: -21, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: -12, best action: 63W, elapsed time: 0.00200009346008, states visited: 15
+Depth 2, value: -982, best action: 63W, elapsed time: 0.0190000534058, states visited: 45
+Depth 3, value: -9, best action: 55W, elapsed time: 0.0709998607635, states visited: 302
+Depth 4, value: -24, best action: 63W, elapsed time: 0.209000110626, states visited: 756
+Depth 5, value: -17, best action: 63S, elapsed time: 0.728999853134, states visited: 3335
+Negamax explored 9800 nodes in 2.0 seconds with DEFAULT heuristic.
+Depth 0, value: -6141, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 8361, best action: 44E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: -3156, best action: 44N, elapsed time: 0.00500011444092, states visited: 108
+Depth 3, value: 7626, best action: 21S, elapsed time: 0.039999961853, states visited: 1015
+Depth 4, value: -7914, best action: 63W, elapsed time: 0.364000082016, states visited: 8749
+Negamax explored 46662 nodes in 2.00200009346 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 21E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: 0, best action: 21E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 0, best action: 21E, elapsed time: 0.0320000648499, states visited: 257
+Depth 4, value: 0, best action: 21E, elapsed time: 0.117999792099, states visited: 676
+Depth 5, value: 0, best action: 21E, elapsed time: 0.326000213623, states visited: 2577
+Depth 6, value: 0, best action: 21E, elapsed time: 0.898000001907, states visited: 6100
+Negamax explored 13928 nodes in 2.0 seconds with WIN_LOSS heuristic.
+Depth 0, value: -21, best action: None, elapsed time: 0.000999927520752, states visited: 1
+Depth 1, value: -12, best action: 63W, elapsed time: 0.00200009346008, states visited: 15
+Depth 2, value: -982, best action: 63W, elapsed time: 0.0179998874664, states visited: 45
+Depth 3, value: -9, best action: 55W, elapsed time: 0.0710000991821, states visited: 302
+Depth 4, value: -24, best action: 63W, elapsed time: 0.207999944687, states visited: 756
+Depth 5, value: -17, best action: 63S, elapsed time: 0.717000007629, states visited: 3335
+Negamax explored 14458 nodes in 3.00099992752 seconds with DEFAULT heuristic.
+Depth 0, value: -5104, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9427, best action: 17E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: -4814, best action: 44N, elapsed time: 0.00500011444092, states visited: 141
+Depth 3, value: 7958, best action: 21E, elapsed time: 0.029000043869, states visited: 752
+Depth 4, value: -7495, best action: 21S, elapsed time: 0.322999954224, states visited: 7656
+Depth 5, value: 7447, best action: 21S, elapsed time: 1.89499998093, states visited: 43682
+Negamax explored 69943 nodes in 3.0039999485 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 21E, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: 0, best action: 21E, elapsed time: 0.00899982452393, states visited: 45
+Depth 3, value: 0, best action: 21E, elapsed time: 0.0320000648499, states visited: 257
+Depth 4, value: 0, best action: 21E, elapsed time: 0.118000030518, states visited: 676
+Depth 5, value: 0, best action: 21E, elapsed time: 0.331000089645, states visited: 2577
+Depth 6, value: 0, best action: 21E, elapsed time: 0.90399980545, states visited: 6100
+Negamax explored 21807 nodes in 3.00100016594 seconds with WIN_LOSS heuristic.
+Depth 0, value: -21, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: -12, best action: 63W, elapsed time: 0.0019998550415, states visited: 15
+Depth 2, value: -982, best action: 63W, elapsed time: 0.0190000534058, states visited: 45
+Depth 3, value: -9, best action: 55W, elapsed time: 0.0699999332428, states visited: 302
+Depth 4, value: -24, best action: 63W, elapsed time: 0.209000110626, states visited: 756
+Depth 5, value: -17, best action: 63S, elapsed time: 0.723999977112, states visited: 3335
+Depth 6, value: -20, best action: 63S, elapsed time: 2.2539999485, states visited: 10727
+Negamax explored 18604 nodes in 4.00099992752 seconds with DEFAULT heuristic.
+Depth 0, value: -5128, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9911, best action: 55N, elapsed time: 0.0, states visited: 15
+Depth 2, value: -4658, best action: 63S, elapsed time: 0.00399994850159, states visited: 86
+Depth 3, value: 7367, best action: 63W, elapsed time: 0.0440001487732, states visited: 1096
+Depth 4, value: -7399, best action: 63N, elapsed time: 0.263000011444, states visited: 6233
+Depth 5, value: 7122, best action: 21S, elapsed time: 1.99799990654, states visited: 47587
+Negamax explored 96899 nodes in 4.0039999485 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 21E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: 0, best action: 21E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 0, best action: 21E, elapsed time: 0.0310001373291, states visited: 257
+Depth 4, value: 0, best action: 21E, elapsed time: 0.115999937057, states visited: 676
+Depth 5, value: 0, best action: 21E, elapsed time: 0.322000026703, states visited: 2577
+Depth 6, value: 0, best action: 21E, elapsed time: 0.891999959946, states visited: 6100
+Depth 7, value: 0, best action: 21E, elapsed time: 2.25900006294, states visited: 18684
+Negamax explored 31313 nodes in 4.00099992752 seconds with WIN_LOSS heuristic.
+Depth 0, value: -21, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: -12, best action: 63W, elapsed time: 0.00200009346008, states visited: 15
+Depth 2, value: -982, best action: 63W, elapsed time: 0.0190000534058, states visited: 45
+Depth 3, value: -9, best action: 55W, elapsed time: 0.069000005722, states visited: 302
+Depth 4, value: -24, best action: 63W, elapsed time: 0.209000110626, states visited: 756
+Depth 5, value: -17, best action: 63S, elapsed time: 0.718999862671, states visited: 3335
+Depth 6, value: -20, best action: 63S, elapsed time: 2.23399996758, states visited: 10727
+Negamax explored 22864 nodes in 5.00200009346 seconds with DEFAULT heuristic.
+Depth 0, value: 2788, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9223, best action: 55W, elapsed time: 0.0, states visited: 15
+Depth 2, value: -7258, best action: 63E, elapsed time: 0.00699996948242, states visited: 181
+Depth 3, value: 7121, best action: 21S, elapsed time: 0.0490000247955, states visited: 1193
+Depth 4, value: -7460, best action: 17E, elapsed time: 0.358000040054, states visited: 8372
+Depth 5, value: 7465, best action: 21S, elapsed time: 2.3109998703, states visited: 53193
+Negamax explored 117847 nodes in 5.00699996948 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 21E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: 0, best action: 21E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 0, best action: 21E, elapsed time: 0.0320000648499, states visited: 257
+Depth 4, value: 0, best action: 21E, elapsed time: 0.117000102997, states visited: 676
+Depth 5, value: 0, best action: 21E, elapsed time: 0.326999902725, states visited: 2577
+Depth 6, value: 0, best action: 21E, elapsed time: 0.905999898911, states visited: 6100
+Depth 7, value: 0, best action: 21E, elapsed time: 2.22900009155, states visited: 18684
+Negamax explored 39965 nodes in 5.00200009346 seconds with WIN_LOSS heuristic.
+Depth 0, value: -21, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: -12, best action: 63W, elapsed time: 0.0019998550415, states visited: 15
+Depth 2, value: -982, best action: 63W, elapsed time: 0.018000125885, states visited: 45
+Depth 3, value: -9, best action: 55W, elapsed time: 0.069000005722, states visited: 302
+Depth 4, value: -24, best action: 63W, elapsed time: 0.205999851227, states visited: 756
+Depth 5, value: -17, best action: 63S, elapsed time: 0.710000038147, states visited: 3335
+Depth 6, value: -20, best action: 63S, elapsed time: 2.1930000782, states visited: 10727
+Negamax explored 27294 nodes in 6.00099992752 seconds with DEFAULT heuristic.
+Depth 0, value: 1060, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9765, best action: 63E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: -5957, best action: 17N, elapsed time: 0.00500011444092, states visited: 126
+Depth 3, value: 7939, best action: 21E, elapsed time: 0.0460000038147, states visited: 1125
+Depth 4, value: -7504, best action: 21S, elapsed time: 0.274999856949, states visited: 6387
+Depth 5, value: 7441, best action: 21S, elapsed time: 1.21200013161, states visited: 28380
+Negamax explored 140521 nodes in 6.00600004196 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 21E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: 0, best action: 21E, elapsed time: 0.00999999046326, states visited: 45
+Depth 3, value: 0, best action: 21E, elapsed time: 0.0320000648499, states visited: 257
+Depth 4, value: 0, best action: 21E, elapsed time: 0.117000102997, states visited: 676
+Depth 5, value: 0, best action: 21E, elapsed time: 0.326999902725, states visited: 2577
+Depth 6, value: 0, best action: 21E, elapsed time: 0.904000043869, states visited: 6100
+Depth 7, value: 0, best action: 21E, elapsed time: 2.27699995041, states visited: 18684
+Negamax explored 47999 nodes in 6.00200009346 seconds with WIN_LOSS heuristic.
+Depth 0, value: -21, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: -12, best action: 63W, elapsed time: 0.0019998550415, states visited: 15
+Depth 2, value: -982, best action: 63W, elapsed time: 0.018000125885, states visited: 45
+Depth 3, value: -9, best action: 55W, elapsed time: 0.0680000782013, states visited: 302
+Depth 4, value: -24, best action: 63W, elapsed time: 0.207999944687, states visited: 756
+Depth 5, value: -17, best action: 63S, elapsed time: 0.721999883652, states visited: 3335
+Depth 6, value: -20, best action: 63S, elapsed time: 2.19400000572, states visited: 10727
+Negamax explored 30814 nodes in 7.00199985504 seconds with DEFAULT heuristic.
+Depth 0, value: 7347, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9356, best action: 44E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: -6106, best action: 17N, elapsed time: 0.00500011444092, states visited: 121
+Depth 3, value: 7742, best action: 63N, elapsed time: 0.0490000247955, states visited: 1221
+Depth 4, value: -7716, best action: 17N, elapsed time: 0.378000020981, states visited: 8773
+Depth 5, value: 7200, best action: 44S, elapsed time: 1.74399995804, states visited: 40573
+Negamax explored 164938 nodes in 7.01099991798 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 21E, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: 0, best action: 21E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 0, best action: 21E, elapsed time: 0.0319998264313, states visited: 257
+Depth 4, value: 0, best action: 21E, elapsed time: 0.117000102997, states visited: 676
+Depth 5, value: 0, best action: 21E, elapsed time: 0.326999902725, states visited: 2577
+Depth 6, value: 0, best action: 21E, elapsed time: 0.903000116348, states visited: 6100
+Depth 7, value: 0, best action: 21E, elapsed time: 2.26999998093, states visited: 18684
+Negamax explored 56633 nodes in 7.00300002098 seconds with WIN_LOSS heuristic.
+Depth 0, value: -21, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: -12, best action: 63W, elapsed time: 0.00200009346008, states visited: 15
+Depth 2, value: -982, best action: 63W, elapsed time: 0.0179998874664, states visited: 45
+Depth 3, value: -9, best action: 55W, elapsed time: 0.069000005722, states visited: 302
+Depth 4, value: -24, best action: 63W, elapsed time: 0.205000162125, states visited: 756
+Depth 5, value: -17, best action: 63S, elapsed time: 0.710000038147, states visited: 3335
+Depth 6, value: -20, best action: 63S, elapsed time: 2.19599986076, states visited: 10727
+Negamax explored 36823 nodes in 8.00300002098 seconds with DEFAULT heuristic.
+Depth 0, value: -8112, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9937, best action: 44S, elapsed time: 0.0, states visited: 15
+Depth 2, value: -5535, best action: 44N, elapsed time: 0.00500011444092, states visited: 105
+Depth 3, value: 8085, best action: 21S, elapsed time: 0.0429999828339, states visited: 1046
+Depth 4, value: -7802, best action: 55W, elapsed time: 0.296999931335, states visited: 6980
+Depth 5, value: 7554, best action: 21S, elapsed time: 1.52900004387, states visited: 35747
+Negamax explored 189414 nodes in 8.0110001564 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 21E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: 0, best action: 21E, elapsed time: 0.00999999046326, states visited: 45
+Depth 3, value: 0, best action: 21E, elapsed time: 0.0320000648499, states visited: 257
+Depth 4, value: 0, best action: 21E, elapsed time: 0.116999864578, states visited: 676
+Depth 5, value: 0, best action: 21E, elapsed time: 0.328999996185, states visited: 2577
+Depth 6, value: 0, best action: 21E, elapsed time: 0.903000116348, states visited: 6100
+Depth 7, value: 0, best action: 21E, elapsed time: 2.27900004387, states visited: 18684
+Negamax explored 66326 nodes in 8.00300002098 seconds with WIN_LOSS heuristic.
+Depth 0, value: -21, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: -12, best action: 63W, elapsed time: 0.00299978256226, states visited: 15
+Depth 2, value: -982, best action: 63W, elapsed time: 0.018000125885, states visited: 45
+Depth 3, value: -9, best action: 55W, elapsed time: 0.0680000782013, states visited: 302
+Depth 4, value: -24, best action: 63W, elapsed time: 0.205999851227, states visited: 756
+Depth 5, value: -17, best action: 63S, elapsed time: 0.707999944687, states visited: 3335
+Depth 6, value: -20, best action: 63S, elapsed time: 2.19500017166, states visited: 10727
+Depth 7, value: -15, best action: 63S, elapsed time: 5.4509999752, states visited: 25438
+Negamax explored 42729 nodes in 9.00299978256 seconds with DEFAULT heuristic.
+Depth 0, value: 1261, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9214, best action: 63S, elapsed time: 0.0, states visited: 15
+Depth 2, value: -7064, best action: 63E, elapsed time: 0.00600004196167, states visited: 129
+Depth 3, value: 7072, best action: 17E, elapsed time: 0.0460000038147, states visited: 1124
+Depth 4, value: -7149, best action: 21E, elapsed time: 0.230000019073, states visited: 5282
+Depth 5, value: 7241, best action: 21E, elapsed time: 1.83500003815, states visited: 41942
+Negamax explored 210066 nodes in 9.01300001144 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 21E, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: 0, best action: 21E, elapsed time: 0.00899982452393, states visited: 45
+Depth 3, value: 0, best action: 21E, elapsed time: 0.0320000648499, states visited: 257
+Depth 4, value: 0, best action: 21E, elapsed time: 0.114000082016, states visited: 676
+Depth 5, value: 0, best action: 21E, elapsed time: 0.322000026703, states visited: 2577
+Depth 6, value: 0, best action: 21E, elapsed time: 0.884999990463, states visited: 6100
+Depth 7, value: 0, best action: 21E, elapsed time: 2.22599983215, states visited: 18684
+Negamax explored 76436 nodes in 9.00400018692 seconds with WIN_LOSS heuristic.
+Depth 0, value: -21, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: -12, best action: 63W, elapsed time: 0.0019998550415, states visited: 15
+Depth 2, value: -982, best action: 63W, elapsed time: 0.0190000534058, states visited: 45
+Depth 3, value: -9, best action: 55W, elapsed time: 0.069000005722, states visited: 302
+Depth 4, value: -24, best action: 63W, elapsed time: 0.210999965668, states visited: 756
+Depth 5, value: -17, best action: 63S, elapsed time: 0.726000070572, states visited: 3335
+Depth 6, value: -20, best action: 63S, elapsed time: 2.23000001907, states visited: 10727
+Depth 7, value: -15, best action: 63S, elapsed time: 5.51999998093, states visited: 25438
+Negamax explored 48099 nodes in 10.0039999485 seconds with DEFAULT heuristic.
+Depth 0, value: -2352, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9911, best action: 44E, elapsed time: 0.0, states visited: 15
+Depth 2, value: -7720, best action: 44E, elapsed time: 0.00600004196167, states visited: 142
+Depth 3, value: 7442, best action: 63N, elapsed time: 0.0390000343323, states visited: 959
+Depth 4, value: -7958, best action: 63E, elapsed time: 0.333999872208, states visited: 7712
+Depth 5, value: 7177, best action: 17N, elapsed time: 1.86199998856, states visited: 43418
+Negamax explored 235255 nodes in 10.0160000324 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.000999927520752, states visited: 1
+Depth 1, value: 0, best action: 21E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: 0, best action: 21E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 0, best action: 21E, elapsed time: 0.0320000648499, states visited: 257
+Depth 4, value: 0, best action: 21E, elapsed time: 0.116999864578, states visited: 676
+Depth 5, value: 0, best action: 21E, elapsed time: 0.327000141144, states visited: 2577
+Depth 6, value: 0, best action: 21E, elapsed time: 0.898000001907, states visited: 6100
+Depth 7, value: 0, best action: 21E, elapsed time: 2.25899982452, states visited: 18684
+Negamax explored 84874 nodes in 10.0039999485 seconds with WIN_LOSS heuristic.
+Depth 0, value: -21, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: -12, best action: 63W, elapsed time: 0.00300002098083, states visited: 15
+Depth 2, value: -982, best action: 63W, elapsed time: 0.0179998874664, states visited: 45
+Depth 3, value: -9, best action: 55W, elapsed time: 0.069000005722, states visited: 302
+Depth 4, value: -24, best action: 63W, elapsed time: 0.209000110626, states visited: 756
+Depth 5, value: -17, best action: 63S, elapsed time: 0.721999883652, states visited: 3335
+Depth 6, value: -20, best action: 63S, elapsed time: 2.22000002861, states visited: 10727
+Depth 7, value: -15, best action: 63S, elapsed time: 5.36599993706, states visited: 25438
+Negamax explored 54486 nodes in 11.0039999485 seconds with DEFAULT heuristic.
+Depth 0, value: -8616, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9689, best action: 21S, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: -7537, best action: 17E, elapsed time: 0.00500011444092, states visited: 118
+Depth 3, value: 7626, best action: 17N, elapsed time: 0.029000043869, states visited: 754
+Depth 4, value: -7674, best action: 21E, elapsed time: 0.25, states visited: 5707
+Depth 5, value: 7357, best action: 21E, elapsed time: 2.24499988556, states visited: 51632
+Depth 6, value: -7773, best action: 21S, elapsed time: 7.5640001297, states visited: 173184
+Negamax explored 252417 nodes in 11.0190000534 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 21E, elapsed time: 0.00200009346008, states visited: 15
+Depth 2, value: 0, best action: 21E, elapsed time: 0.00899982452393, states visited: 45
+Depth 3, value: 0, best action: 21E, elapsed time: 0.0320000648499, states visited: 257
+Depth 4, value: 0, best action: 21E, elapsed time: 0.117000102997, states visited: 676
+Depth 5, value: 0, best action: 21E, elapsed time: 0.327999830246, states visited: 2577
+Depth 6, value: 0, best action: 21E, elapsed time: 0.901999950409, states visited: 6100
+Depth 7, value: 0, best action: 21E, elapsed time: 2.26400017738, states visited: 18684
+Negamax explored 94503 nodes in 11.0039999485 seconds with WIN_LOSS heuristic.
+Depth 0, value: -21, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: -12, best action: 63W, elapsed time: 0.00300002098083, states visited: 15
+Depth 2, value: -982, best action: 63W, elapsed time: 0.018000125885, states visited: 45
+Depth 3, value: -9, best action: 55W, elapsed time: 0.0699999332428, states visited: 302
+Depth 4, value: -24, best action: 63W, elapsed time: 0.211999893188, states visited: 756
+Depth 5, value: -17, best action: 63S, elapsed time: 0.72200012207, states visited: 3335
+Depth 6, value: -20, best action: 63S, elapsed time: 2.23199987411, states visited: 10727
+Depth 7, value: -15, best action: 63S, elapsed time: 5.48200011253, states visited: 25438
+Negamax explored 58222 nodes in 12.0039999485 seconds with DEFAULT heuristic.
+Depth 0, value: 2200, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 7180, best action: 63S, elapsed time: 0.0, states visited: 15
+Depth 2, value: -4648, best action: 21S, elapsed time: 0.00500011444092, states visited: 96
+Depth 3, value: 6413, best action: 44E, elapsed time: 0.0450000762939, states visited: 1077
+Depth 4, value: -7872, best action: 63N, elapsed time: 0.287999868393, states visited: 6976
+Depth 5, value: 7493, best action: 21S, elapsed time: 1.26399993896, states visited: 30180
+Depth 6, value: -7736, best action: 21S, elapsed time: 8.88199996948, states visited: 208318
+Negamax explored 282050 nodes in 12.0199999809 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 21E, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: 0, best action: 21E, elapsed time: 0.00899982452393, states visited: 45
+Depth 3, value: 0, best action: 21E, elapsed time: 0.0320000648499, states visited: 257
+Depth 4, value: 0, best action: 21E, elapsed time: 0.117000102997, states visited: 676
+Depth 5, value: 0, best action: 21E, elapsed time: 0.327999830246, states visited: 2577
+Depth 6, value: 0, best action: 21E, elapsed time: 0.912000179291, states visited: 6100
+Depth 7, value: 0, best action: 21E, elapsed time: 2.27200007439, states visited: 18684
+Negamax explored 105259 nodes in 12.0050001144 seconds with WIN_LOSS heuristic.
+Depth 0, value: -21, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: -12, best action: 63W, elapsed time: 0.00300002098083, states visited: 15
+Depth 2, value: -982, best action: 63W, elapsed time: 0.0179998874664, states visited: 45
+Depth 3, value: -9, best action: 55W, elapsed time: 0.0680000782013, states visited: 302
+Depth 4, value: -24, best action: 63W, elapsed time: 0.206000089645, states visited: 756
+Depth 5, value: -17, best action: 63S, elapsed time: 0.707999944687, states visited: 3335
+Depth 6, value: -20, best action: 63S, elapsed time: 2.1930000782, states visited: 10727
+Depth 7, value: -15, best action: 63S, elapsed time: 5.46700000763, states visited: 25438
+Negamax explored 64615 nodes in 13.0039999485 seconds with DEFAULT heuristic.
+Depth 0, value: 9133, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9325, best action: 63N, elapsed time: 0.0, states visited: 15
+Depth 2, value: -6934, best action: 17N, elapsed time: 0.00600004196167, states visited: 126
+Depth 3, value: 7246, best action: 55S, elapsed time: 0.0469999313354, states visited: 1102
+Depth 4, value: -7858, best action: 44N, elapsed time: 0.297000169754, states visited: 6952
+Depth 5, value: 7340, best action: 21S, elapsed time: 1.94400000572, states visited: 44589
+Depth 6, value: -7698, best action: 21S, elapsed time: 5.20999979973, states visited: 121096
+Negamax explored 299376 nodes in 13.0239999294 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 21E, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: 0, best action: 21E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 0, best action: 21E, elapsed time: 0.0319998264313, states visited: 257
+Depth 4, value: 0, best action: 21E, elapsed time: 0.117000102997, states visited: 676
+Depth 5, value: 0, best action: 21E, elapsed time: 0.328000068665, states visited: 2577
+Depth 6, value: 0, best action: 21E, elapsed time: 0.90499997139, states visited: 6100
+Depth 7, value: 0, best action: 21E, elapsed time: 2.26699995995, states visited: 18684
+Negamax explored 114710 nodes in 13.0050001144 seconds with WIN_LOSS heuristic.
+Depth 0, value: -21, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: -12, best action: 63W, elapsed time: 0.00300002098083, states visited: 15
+Depth 2, value: -982, best action: 63W, elapsed time: 0.0179998874664, states visited: 45
+Depth 3, value: -9, best action: 55W, elapsed time: 0.0680000782013, states visited: 302
+Depth 4, value: -24, best action: 63W, elapsed time: 0.206000089645, states visited: 756
+Depth 5, value: -17, best action: 63S, elapsed time: 0.710999965668, states visited: 3335
+Depth 6, value: -20, best action: 63S, elapsed time: 2.19799995422, states visited: 10727
+Depth 7, value: -15, best action: 63S, elapsed time: 5.39299988747, states visited: 25438
+Negamax explored 71659 nodes in 14.0039999485 seconds with DEFAULT heuristic.
+Depth 0, value: -2270, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9789, best action: 63S, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: -5831, best action: 55S, elapsed time: 0.00499987602234, states visited: 113
+Depth 3, value: 7346, best action: 55S, elapsed time: 0.0439999103546, states visited: 1087
+Depth 4, value: -7586, best action: 63W, elapsed time: 0.251000165939, states visited: 5874
+Depth 5, value: 7493, best action: 21S, elapsed time: 1.0720000267, states visited: 25134
+Depth 6, value: -7763, best action: 21S, elapsed time: 9.36699986458, states visited: 218193
+Negamax explored 325095 nodes in 14.0250000954 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 21E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: 0, best action: 21E, elapsed time: 0.00999999046326, states visited: 45
+Depth 3, value: 0, best action: 21E, elapsed time: 0.0320000648499, states visited: 257
+Depth 4, value: 0, best action: 21E, elapsed time: 0.116999864578, states visited: 676
+Depth 5, value: 0, best action: 21E, elapsed time: 0.328000068665, states visited: 2577
+Depth 6, value: 0, best action: 21E, elapsed time: 0.898999929428, states visited: 6100
+Depth 7, value: 0, best action: 21E, elapsed time: 2.25800013542, states visited: 18684
+Negamax explored 121348 nodes in 14.006000042 seconds with WIN_LOSS heuristic.
+Depth 0, value: -21, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: -12, best action: 63W, elapsed time: 0.0019998550415, states visited: 15
+Depth 2, value: -982, best action: 63W, elapsed time: 0.018000125885, states visited: 45
+Depth 3, value: -9, best action: 55W, elapsed time: 0.0679998397827, states visited: 302
+Depth 4, value: -24, best action: 63W, elapsed time: 0.206000089645, states visited: 756
+Depth 5, value: -17, best action: 63S, elapsed time: 0.713000059128, states visited: 3335
+Depth 6, value: -20, best action: 63S, elapsed time: 2.20299983025, states visited: 10727
+Depth 7, value: -15, best action: 63S, elapsed time: 5.46300005913, states visited: 25438
+Negamax explored 76965 nodes in 15.0039999485 seconds with DEFAULT heuristic.
+Depth 0, value: 666, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 6194, best action: 63E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: -7029, best action: 55N, elapsed time: 0.00600004196167, states visited: 136
+Depth 3, value: 7836, best action: 17N, elapsed time: 0.0629999637604, states visited: 1498
+Depth 4, value: -7670, best action: 21E, elapsed time: 0.367000102997, states visited: 8626
+Depth 5, value: 7189, best action: 21S, elapsed time: 1.61099982262, states visited: 37822
+Depth 6, value: -7907, best action: 44N, elapsed time: 11.3519999981, states visited: 266549
+Negamax explored 350808 nodes in 15.0269999504 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 21E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: 0, best action: 21E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 0, best action: 21E, elapsed time: 0.0320000648499, states visited: 257
+Depth 4, value: 0, best action: 21E, elapsed time: 0.118000030518, states visited: 676
+Depth 5, value: 0, best action: 21E, elapsed time: 0.328999996185, states visited: 2577
+Depth 6, value: 0, best action: 21E, elapsed time: 0.914999961853, states visited: 6100
+Depth 7, value: 0, best action: 21E, elapsed time: 2.35000014305, states visited: 18684
+Negamax explored 127126 nodes in 15.0069999695 seconds with WIN_LOSS heuristic.
+Depth 0, value: -21, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: -12, best action: 63W, elapsed time: 0.00300002098083, states visited: 15
+Depth 2, value: -982, best action: 63W, elapsed time: 0.0190000534058, states visited: 45
+Depth 3, value: -9, best action: 55W, elapsed time: 0.0709998607635, states visited: 302
+Depth 4, value: -24, best action: 63W, elapsed time: 0.22200012207, states visited: 756
+Depth 5, value: -17, best action: 63S, elapsed time: 0.730999946594, states visited: 3335
+Depth 6, value: -20, best action: 63S, elapsed time: 2.22900009155, states visited: 10727
+Depth 7, value: -15, best action: 63S, elapsed time: 5.5, states visited: 25438
+Negamax explored 81031 nodes in 16.0069999695 seconds with DEFAULT heuristic.
+Depth 0, value: 3779, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9142, best action: 17E, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: -5921, best action: 63S, elapsed time: 0.00599980354309, states visited: 160
+Depth 3, value: 6965, best action: 55S, elapsed time: 0.055999994278, states visited: 1337
+Depth 4, value: -8083, best action: 17N, elapsed time: 0.422000169754, states visited: 9802
+Depth 5, value: 7288, best action: 21E, elapsed time: 2.03999996185, states visited: 47516
+Depth 6, value: -7919, best action: 17E, elapsed time: 11.8190000057, states visited: 275469
+Negamax explored 371797 nodes in 16.0290000439 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 21E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: 0, best action: 21E, elapsed time: 0.00999999046326, states visited: 45
+Depth 3, value: 0, best action: 21E, elapsed time: 0.0320000648499, states visited: 257
+Depth 4, value: 0, best action: 21E, elapsed time: 0.118000030518, states visited: 676
+Depth 5, value: 0, best action: 21E, elapsed time: 0.329999923706, states visited: 2577
+Depth 6, value: 0, best action: 21E, elapsed time: 0.90700006485, states visited: 6100
+Depth 7, value: 0, best action: 21E, elapsed time: 2.31999993324, states visited: 18684
+Negamax explored 138964 nodes in 16.0090000629 seconds with WIN_LOSS heuristic.
+Depth 0, value: -21, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: -12, best action: 63W, elapsed time: 0.0019998550415, states visited: 15
+Depth 2, value: -982, best action: 63W, elapsed time: 0.0190000534058, states visited: 45
+Depth 3, value: -9, best action: 55W, elapsed time: 0.069000005722, states visited: 302
+Depth 4, value: -24, best action: 63W, elapsed time: 0.210000038147, states visited: 756
+Depth 5, value: -17, best action: 63S, elapsed time: 0.726999998093, states visited: 3335
+Depth 6, value: -20, best action: 63S, elapsed time: 2.24000000954, states visited: 10727
+Depth 7, value: -15, best action: 63S, elapsed time: 5.51300001144, states visited: 25438
+Negamax explored 88515 nodes in 17.004999876 seconds with DEFAULT heuristic.
+Depth 0, value: 5828, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 4974, best action: 63W, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: -5442, best action: 17N, elapsed time: 0.00499987602234, states visited: 126
+Depth 3, value: 7346, best action: 55N, elapsed time: 0.0429999828339, states visited: 1079
+Depth 4, value: -7293, best action: 21S, elapsed time: 0.3140001297, states visited: 7011
+Depth 5, value: 6973, best action: 44N, elapsed time: 1.79799985886, states visited: 41697
+Depth 6, value: -7673, best action: 21S, elapsed time: 12.1570000648, states visited: 279501
+Negamax explored 391085 nodes in 17.0329999924 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 21E, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: 0, best action: 21E, elapsed time: 0.00999999046326, states visited: 45
+Depth 3, value: 0, best action: 21E, elapsed time: 0.0319998264313, states visited: 257
+Depth 4, value: 0, best action: 21E, elapsed time: 0.118000030518, states visited: 676
+Depth 5, value: 0, best action: 21E, elapsed time: 0.333000183105, states visited: 2577
+Depth 6, value: 0, best action: 21E, elapsed time: 0.898000001907, states visited: 6100
+Depth 7, value: 0, best action: 21E, elapsed time: 2.23299980164, states visited: 18684
+Negamax explored 144416 nodes in 17.0090000629 seconds with WIN_LOSS heuristic.
+Depth 0, value: -21, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: -12, best action: 63W, elapsed time: 0.00200009346008, states visited: 15
+Depth 2, value: -982, best action: 63W, elapsed time: 0.0190000534058, states visited: 45
+Depth 3, value: -9, best action: 55W, elapsed time: 0.069000005722, states visited: 302
+Depth 4, value: -24, best action: 63W, elapsed time: 0.210999965668, states visited: 756
+Depth 5, value: -17, best action: 63S, elapsed time: 0.720999956131, states visited: 3335
+Depth 6, value: -20, best action: 63S, elapsed time: 2.23300004005, states visited: 10727
+Depth 7, value: -15, best action: 63S, elapsed time: 5.37199997902, states visited: 25438
+Negamax explored 95265 nodes in 18.0069999695 seconds with DEFAULT heuristic.
+Depth 0, value: 5742, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9059, best action: 63S, elapsed time: 0.0, states visited: 15
+Depth 2, value: -7872, best action: 55S, elapsed time: 0.00699996948242, states visited: 158
+Depth 3, value: 7450, best action: 21E, elapsed time: 0.0480000972748, states visited: 1180
+Depth 4, value: -7772, best action: 21S, elapsed time: 0.351999998093, states visited: 8162
+Depth 5, value: 7529, best action: 17N, elapsed time: 1.85500001907, states visited: 42399
+Depth 6, value: -7801, best action: 17E, elapsed time: 8.21900010109, states visited: 190057
+Negamax explored 410341 nodes in 18.0350000858 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 21E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: 0, best action: 21E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 0, best action: 21E, elapsed time: 0.0320000648499, states visited: 257
+Depth 4, value: 0, best action: 21E, elapsed time: 0.117000102997, states visited: 676
+Depth 5, value: 0, best action: 21E, elapsed time: 0.328999996185, states visited: 2577
+Depth 6, value: 0, best action: 21E, elapsed time: 0.912999868393, states visited: 6100
+Depth 7, value: 0, best action: 21E, elapsed time: 2.29299998283, states visited: 18684
+Depth 8, value: 0, best action: 21S, elapsed time: 13.8819999695, states visited: 119846
+Negamax explored 150588 nodes in 18.0099999905 seconds with WIN_LOSS heuristic.
+Depth 0, value: -21, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: -12, best action: 63W, elapsed time: 0.00200009346008, states visited: 15
+Depth 2, value: -982, best action: 63W, elapsed time: 0.0179998874664, states visited: 45
+Depth 3, value: -9, best action: 55W, elapsed time: 0.0699999332428, states visited: 302
+Depth 4, value: -24, best action: 63W, elapsed time: 0.212000131607, states visited: 756
+Depth 5, value: -17, best action: 63S, elapsed time: 0.721999883652, states visited: 3335
+Depth 6, value: -20, best action: 63S, elapsed time: 2.24699997902, states visited: 10727
+Depth 7, value: -15, best action: 63S, elapsed time: 5.53500008583, states visited: 25438
+Negamax explored 101080 nodes in 19.007999897 seconds with DEFAULT heuristic.
+Depth 0, value: -6151, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 8556, best action: 55S, elapsed time: 0.0, states visited: 15
+Depth 2, value: -7554, best action: 63N, elapsed time: 0.00600004196167, states visited: 127
+Depth 3, value: 7375, best action: 21E, elapsed time: 0.0480000972748, states visited: 1153
+Depth 4, value: -7390, best action: 17N, elapsed time: 0.303999900818, states visited: 7015
+Depth 5, value: 7570, best action: 21S, elapsed time: 1.98099994659, states visited: 44427
+Depth 6, value: -7734, best action: 21S, elapsed time: 9.992000103, states visited: 211517
+Negamax explored 415733 nodes in 19.0370001793 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 21E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: 0, best action: 21E, elapsed time: 0.0090000629425, states visited: 45
+Depth 3, value: 0, best action: 21E, elapsed time: 0.0319998264313, states visited: 257
+Depth 4, value: 0, best action: 21E, elapsed time: 0.115000009537, states visited: 676
+Depth 5, value: 0, best action: 21E, elapsed time: 0.323000192642, states visited: 2577
+Depth 6, value: 0, best action: 21E, elapsed time: 0.898000001907, states visited: 6100
+Depth 7, value: 0, best action: 21E, elapsed time: 2.28699994087, states visited: 18684
+Depth 8, value: 0, best action: 21S, elapsed time: 13.9679999352, states visited: 119846
+Negamax explored 155421 nodes in 19.0089998245 seconds with WIN_LOSS heuristic.
+Depth 0, value: -21, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: -12, best action: 63W, elapsed time: 0.00300002098083, states visited: 15
+Depth 2, value: -982, best action: 63W, elapsed time: 0.018000125885, states visited: 45
+Depth 3, value: -9, best action: 55W, elapsed time: 0.0679998397827, states visited: 302
+Depth 4, value: -24, best action: 63W, elapsed time: 0.206000089645, states visited: 756
+Depth 5, value: -17, best action: 63S, elapsed time: 0.71799993515, states visited: 3335
+Depth 6, value: -20, best action: 63S, elapsed time: 2.27300000191, states visited: 10727
+Depth 7, value: -15, best action: 63S, elapsed time: 5.45800018311, states visited: 25438
+Negamax explored 107616 nodes in 20.0080001354 seconds with DEFAULT heuristic.
+Depth 0, value: -9554, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 5057, best action: 21E, elapsed time: 0.0, states visited: 15
+Depth 2, value: -5861, best action: 44N, elapsed time: 0.00699996948242, states visited: 139
+Depth 3, value: 7779, best action: 63N, elapsed time: 0.0409998893738, states visited: 1053
+Depth 4, value: -7460, best action: 63N, elapsed time: 0.235000133514, states visited: 5484
+Depth 5, value: 7432, best action: 21E, elapsed time: 1.34200000763, states visited: 32481
+Depth 6, value: -7678, best action: 21S, elapsed time: 10.7590000629, states visited: 247771
+Negamax explored 457473 nodes in 20.0399999619 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 21E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: 0, best action: 21E, elapsed time: 0.00999999046326, states visited: 45
+Depth 3, value: 0, best action: 21E, elapsed time: 0.0320000648499, states visited: 257
+Depth 4, value: 0, best action: 21E, elapsed time: 0.117000102997, states visited: 676
+Depth 5, value: 0, best action: 21E, elapsed time: 0.326999902725, states visited: 2577
+Depth 6, value: 0, best action: 21E, elapsed time: 0.885999917984, states visited: 6100
+Depth 7, value: 0, best action: 21E, elapsed time: 2.22699999809, states visited: 18684
+Depth 8, value: 0, best action: 21S, elapsed time: 14.5520000458, states visited: 119846
+Negamax explored 157823 nodes in 20.0099999905 seconds with WIN_LOSS heuristic.
+Initial state C
+  1 2 3 4 5 6 7
+1  , ,O, ,X, ,
+2  , ,O, ,X, ,
+3  , ,X, ,O, ,
+4  , ,X, ,O, ,
+5  , , , , , ,
+6  , ,O, ,X, ,
+7  , ,X, ,O, ,
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 965, best action: 32E, elapsed time: 0.00200009346008, states visited: 15
+Depth 2, value: 0, best action: 32E, elapsed time: 0.0149998664856, states visited: 42
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0520000457764, states visited: 342
+Win found for white player with move 32E
+Negamax explored 400 nodes in 0.069000005722 seconds with DEFAULT heuristic.
+Depth 0, value: -8333, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9465, best action: 57W, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: -5368, best action: 31E, elapsed time: 0.00399994850159, states visited: 74
+Depth 3, value: 10000, best action: 53W, elapsed time: 0.0279998779297, states visited: 704
+Win found for white player with move 53W
+Negamax explored 794 nodes in 0.0329999923706 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 31E, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: 0, best action: 31E, elapsed time: 0.00799989700317, states visited: 41
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0390000343323, states visited: 318
+Win found for white player with move 32E
+Negamax explored 375 nodes in 0.0480000972748 seconds with WIN_LOSS heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 965, best action: 32E, elapsed time: 0.00200009346008, states visited: 15
+Depth 2, value: 0, best action: 32E, elapsed time: 0.0139999389648, states visited: 42
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0529999732971, states visited: 342
+Win found for white player with move 32E
+Negamax explored 400 nodes in 0.0699999332428 seconds with DEFAULT heuristic.
+Depth 0, value: 8918, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9703, best action: 53E, elapsed time: 0.0, states visited: 15
+Depth 2, value: -6984, best action: 31W, elapsed time: 0.00600004196167, states visited: 136
+Depth 3, value: 10000, best action: 53W, elapsed time: 0.0239999294281, states visited: 567
+Win found for white player with move 53W
+Negamax explored 719 nodes in 0.0299999713898 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 31E, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: 0, best action: 31E, elapsed time: 0.00899982452393, states visited: 41
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0410001277924, states visited: 318
+Win found for white player with move 32E
+Negamax explored 375 nodes in 0.0510001182556 seconds with WIN_LOSS heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 965, best action: 32E, elapsed time: 0.0019998550415, states visited: 15
+Depth 2, value: 0, best action: 32E, elapsed time: 0.0139999389648, states visited: 42
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0529999732971, states visited: 342
+Win found for white player with move 32E
+Negamax explored 400 nodes in 0.0699999332428 seconds with DEFAULT heuristic.
+Depth 0, value: 6570, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 8430, best action: 53E, elapsed time: 0.0, states visited: 15
+Depth 2, value: -6491, best action: 54S, elapsed time: 0.00500011444092, states visited: 101
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0259997844696, states visited: 662
+Win found for white player with move 32E
+Negamax explored 779 nodes in 0.0309998989105 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 31E, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: 0, best action: 31E, elapsed time: 0.00799989700317, states visited: 41
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0380001068115, states visited: 318
+Win found for white player with move 32E
+Negamax explored 375 nodes in 0.047000169754 seconds with WIN_LOSS heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 965, best action: 32E, elapsed time: 0.0019998550415, states visited: 15
+Depth 2, value: 0, best action: 32E, elapsed time: 0.0140001773834, states visited: 42
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.050999879837, states visited: 342
+Win found for white player with move 32E
+Negamax explored 400 nodes in 0.066999912262 seconds with DEFAULT heuristic.
+Depth 0, value: 7618, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9674, best action: 54W, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: -4648, best action: 36N, elapsed time: 0.00500011444092, states visited: 116
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0220000743866, states visited: 541
+Win found for white player with move 32E
+Negamax explored 673 nodes in 0.0280001163483 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 31E, elapsed time: 0.0019998550415, states visited: 15
+Depth 2, value: 0, best action: 31E, elapsed time: 0.00699996948242, states visited: 41
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0400002002716, states visited: 318
+Win found for white player with move 32E
+Negamax explored 375 nodes in 0.0499999523163 seconds with WIN_LOSS heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 965, best action: 32E, elapsed time: 0.0019998550415, states visited: 15
+Depth 2, value: 0, best action: 32E, elapsed time: 0.0130000114441, states visited: 42
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0520000457764, states visited: 342
+Win found for white player with move 32E
+Negamax explored 400 nodes in 0.066999912262 seconds with DEFAULT heuristic.
+Depth 0, value: 1449, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 3298, best action: 31E, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: -5185, best action: 31E, elapsed time: 0.00499987602234, states visited: 120
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0360000133514, states visited: 922
+Win found for white player with move 32E
+Negamax explored 1058 nodes in 0.0420000553131 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 31E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: 0, best action: 31E, elapsed time: 0.00800013542175, states visited: 41
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0379998683929, states visited: 318
+Win found for white player with move 32E
+Negamax explored 375 nodes in 0.0469999313354 seconds with WIN_LOSS heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 965, best action: 32E, elapsed time: 0.00200009346008, states visited: 15
+Depth 2, value: 0, best action: 32E, elapsed time: 0.0139999389648, states visited: 42
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0510001182556, states visited: 342
+Win found for white player with move 32E
+Negamax explored 400 nodes in 0.0670001506805 seconds with DEFAULT heuristic.
+Depth 0, value: 1317, best action: None, elapsed time: 0.000999927520752, states visited: 1
+Depth 1, value: 7307, best action: 31W, elapsed time: 0.0, states visited: 15
+Depth 2, value: -7048, best action: 32W, elapsed time: 0.00600004196167, states visited: 134
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0319998264313, states visited: 828
+Win found for white player with move 32E
+Negamax explored 978 nodes in 0.0389997959137 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 31E, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: 0, best action: 31E, elapsed time: 0.00799989700317, states visited: 41
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0390000343323, states visited: 318
+Win found for white player with move 32E
+Negamax explored 375 nodes in 0.0480000972748 seconds with WIN_LOSS heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 965, best action: 32E, elapsed time: 0.00200009346008, states visited: 15
+Depth 2, value: 0, best action: 32E, elapsed time: 0.0130000114441, states visited: 42
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0519998073578, states visited: 342
+Win found for white player with move 32E
+Negamax explored 400 nodes in 0.066999912262 seconds with DEFAULT heuristic.
+Depth 0, value: 6594, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 7399, best action: 53E, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: -6523, best action: 53W, elapsed time: 0.00399994850159, states visited: 95
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0260000228882, states visited: 637
+Win found for white player with move 32E
+Negamax explored 748 nodes in 0.0310001373291 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 31E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: 0, best action: 31E, elapsed time: 0.00800013542175, states visited: 41
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0379998683929, states visited: 318
+Win found for white player with move 32E
+Negamax explored 375 nodes in 0.0469999313354 seconds with WIN_LOSS heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.000999927520752, states visited: 1
+Depth 1, value: 965, best action: 32E, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: 0, best action: 32E, elapsed time: 0.0139999389648, states visited: 42
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0510001182556, states visited: 342
+Win found for white player with move 32E
+Negamax explored 400 nodes in 0.0680000782013 seconds with DEFAULT heuristic.
+Depth 0, value: 8668, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9785, best action: 54W, elapsed time: 0.0, states visited: 15
+Depth 2, value: -5125, best action: 54S, elapsed time: 0.00399994850159, states visited: 81
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0139999389648, states visited: 349
+Win found for white player with move 32E
+Negamax explored 446 nodes in 0.0179998874664 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 31E, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: 0, best action: 31E, elapsed time: 0.00799989700317, states visited: 41
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0390000343323, states visited: 318
+Win found for white player with move 32E
+Negamax explored 375 nodes in 0.0480000972748 seconds with WIN_LOSS heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 965, best action: 32E, elapsed time: 0.00200009346008, states visited: 15
+Depth 2, value: 0, best action: 32E, elapsed time: 0.0129997730255, states visited: 42
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0520000457764, states visited: 342
+Win found for white player with move 32E
+Negamax explored 400 nodes in 0.066999912262 seconds with DEFAULT heuristic.
+Depth 0, value: -7406, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9588, best action: 54S, elapsed time: 0.0, states visited: 15
+Depth 2, value: -6617, best action: 31W, elapsed time: 0.00500011444092, states visited: 94
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.021999835968, states visited: 555
+Win found for white player with move 32E
+Negamax explored 665 nodes in 0.0269999504089 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 31E, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: 0, best action: 31E, elapsed time: 0.00799989700317, states visited: 41
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0390000343323, states visited: 318
+Win found for white player with move 32E
+Negamax explored 375 nodes in 0.0480000972748 seconds with WIN_LOSS heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 965, best action: 32E, elapsed time: 0.00200009346008, states visited: 15
+Depth 2, value: 0, best action: 32E, elapsed time: 0.0139999389648, states visited: 42
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0520000457764, states visited: 342
+Win found for white player with move 32E
+Negamax explored 400 nodes in 0.0680000782013 seconds with DEFAULT heuristic.
+Depth 0, value: -3502, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9559, best action: 32E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: -4560, best action: 31E, elapsed time: 0.00500011444092, states visited: 104
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0149998664856, states visited: 387
+Win found for white player with move 32E
+Negamax explored 507 nodes in 0.0209999084473 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 31E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: 0, best action: 31E, elapsed time: 0.00800013542175, states visited: 41
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0379998683929, states visited: 318
+Win found for white player with move 32E
+Negamax explored 375 nodes in 0.0469999313354 seconds with WIN_LOSS heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 965, best action: 32E, elapsed time: 0.00200009346008, states visited: 15
+Depth 2, value: 0, best action: 32E, elapsed time: 0.0139999389648, states visited: 42
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0510001182556, states visited: 342
+Win found for white player with move 32E
+Negamax explored 400 nodes in 0.0670001506805 seconds with DEFAULT heuristic.
+Depth 0, value: 3255, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9650, best action: 32E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: -4953, best action: 36W, elapsed time: 0.00500011444092, states visited: 107
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0139999389648, states visited: 364
+Win found for white player with move 32E
+Negamax explored 487 nodes in 0.0199999809265 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 31E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: 0, best action: 31E, elapsed time: 0.007000207901, states visited: 41
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0389997959137, states visited: 318
+Win found for white player with move 32E
+Negamax explored 375 nodes in 0.0479998588562 seconds with WIN_LOSS heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 965, best action: 32E, elapsed time: 0.00200009346008, states visited: 15
+Depth 2, value: 0, best action: 32E, elapsed time: 0.0130000114441, states visited: 42
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0520000457764, states visited: 342
+Win found for white player with move 32E
+Negamax explored 400 nodes in 0.0670001506805 seconds with DEFAULT heuristic.
+Depth 0, value: 1386, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9473, best action: 54W, elapsed time: 0.0, states visited: 15
+Depth 2, value: -1833, best action: 31W, elapsed time: 0.00600004196167, states visited: 120
+Depth 3, value: 10000, best action: 53W, elapsed time: 0.0349998474121, states visited: 874
+Win found for white player with move 53W
+Negamax explored 1010 nodes in 0.0409998893738 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 31E, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: 0, best action: 31E, elapsed time: 0.00799989700317, states visited: 41
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0380001068115, states visited: 318
+Win found for white player with move 32E
+Negamax explored 375 nodes in 0.047000169754 seconds with WIN_LOSS heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.000999927520752, states visited: 1
+Depth 1, value: 965, best action: 32E, elapsed time: 0.0019998550415, states visited: 15
+Depth 2, value: 0, best action: 32E, elapsed time: 0.0130000114441, states visited: 42
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0520000457764, states visited: 342
+Win found for white player with move 32E
+Negamax explored 400 nodes in 0.0679998397827 seconds with DEFAULT heuristic.
+Depth 0, value: -9, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 8490, best action: 54W, elapsed time: 0.0, states visited: 15
+Depth 2, value: -6731, best action: 54W, elapsed time: 0.00500011444092, states visited: 125
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0349998474121, states visited: 856
+Win found for white player with move 32E
+Negamax explored 997 nodes in 0.039999961853 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 31E, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: 0, best action: 31E, elapsed time: 0.00799989700317, states visited: 41
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0380001068115, states visited: 318
+Win found for white player with move 32E
+Negamax explored 375 nodes in 0.047000169754 seconds with WIN_LOSS heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 965, best action: 32E, elapsed time: 0.0019998550415, states visited: 15
+Depth 2, value: 0, best action: 32E, elapsed time: 0.0140001773834, states visited: 42
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0519998073578, states visited: 342
+Win found for white player with move 32E
+Negamax explored 400 nodes in 0.0679998397827 seconds with DEFAULT heuristic.
+Depth 0, value: -3915, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 8319, best action: 31E, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: -6356, best action: 53E, elapsed time: 0.00399994850159, states visited: 84
+Depth 3, value: 10000, best action: 53W, elapsed time: 0.0249998569489, states visited: 642
+Win found for white player with move 53W
+Negamax explored 742 nodes in 0.0299999713898 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 31E, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: 0, best action: 31E, elapsed time: 0.00799989700317, states visited: 41
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0390000343323, states visited: 318
+Win found for white player with move 32E
+Negamax explored 375 nodes in 0.0480000972748 seconds with WIN_LOSS heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 965, best action: 32E, elapsed time: 0.00200009346008, states visited: 15
+Depth 2, value: 0, best action: 32E, elapsed time: 0.0139999389648, states visited: 42
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0520000457764, states visited: 342
+Win found for white player with move 32E
+Negamax explored 400 nodes in 0.0680000782013 seconds with DEFAULT heuristic.
+Depth 0, value: -4323, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 8188, best action: 54E, elapsed time: 0.0, states visited: 15
+Depth 2, value: -4659, best action: 54W, elapsed time: 0.00600004196167, states visited: 130
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0179998874664, states visited: 455
+Win found for white player with move 32E
+Negamax explored 601 nodes in 0.0239999294281 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 31E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: 0, best action: 31E, elapsed time: 0.00800013542175, states visited: 41
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0379998683929, states visited: 318
+Win found for white player with move 32E
+Negamax explored 375 nodes in 0.0469999313354 seconds with WIN_LOSS heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 965, best action: 32E, elapsed time: 0.0019998550415, states visited: 15
+Depth 2, value: 0, best action: 32E, elapsed time: 0.0130000114441, states visited: 42
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0520000457764, states visited: 342
+Win found for white player with move 32E
+Negamax explored 400 nodes in 0.0680000782013 seconds with DEFAULT heuristic.
+Depth 0, value: -4718, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9438, best action: 32E, elapsed time: 0.0, states visited: 15
+Depth 2, value: -7352, best action: 57W, elapsed time: 0.00600004196167, states visited: 120
+Depth 3, value: 10000, best action: 53W, elapsed time: 0.0139999389648, states visited: 380
+Win found for white player with move 53W
+Negamax explored 516 nodes in 0.0199999809265 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.000999927520752, states visited: 1
+Depth 1, value: 0, best action: 31E, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: 0, best action: 31E, elapsed time: 0.00699996948242, states visited: 41
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0390000343323, states visited: 318
+Win found for white player with move 32E
+Negamax explored 375 nodes in 0.0480000972748 seconds with WIN_LOSS heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 965, best action: 32E, elapsed time: 0.0019998550415, states visited: 15
+Depth 2, value: 0, best action: 32E, elapsed time: 0.0140001773834, states visited: 42
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.050999879837, states visited: 342
+Win found for white player with move 32E
+Negamax explored 400 nodes in 0.066999912262 seconds with DEFAULT heuristic.
+Depth 0, value: 8788, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9930, best action: 54W, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: -6087, best action: 57E, elapsed time: 0.00500011444092, states visited: 124
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0190000534058, states visited: 471
+Win found for white player with move 32E
+Negamax explored 611 nodes in 0.0250000953674 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 31E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: 0, best action: 31E, elapsed time: 0.00799989700317, states visited: 41
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0380001068115, states visited: 318
+Win found for white player with move 32E
+Negamax explored 375 nodes in 0.0469999313354 seconds with WIN_LOSS heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 965, best action: 32E, elapsed time: 0.00300002098083, states visited: 15
+Depth 2, value: 0, best action: 32E, elapsed time: 0.0130000114441, states visited: 42
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0520000457764, states visited: 342
+Win found for white player with move 32E
+Negamax explored 400 nodes in 0.0680000782013 seconds with DEFAULT heuristic.
+Depth 0, value: -8988, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 8924, best action: 54E, elapsed time: 0.0, states visited: 15
+Depth 2, value: -6624, best action: 31W, elapsed time: 0.00599980354309, states visited: 140
+Depth 3, value: 10000, best action: 53W, elapsed time: 0.029000043869, states visited: 709
+Win found for white player with move 53W
+Negamax explored 865 nodes in 0.0349998474121 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 31E, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: 0, best action: 31E, elapsed time: 0.00799989700317, states visited: 41
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0390000343323, states visited: 318
+Win found for white player with move 32E
+Negamax explored 375 nodes in 0.0480000972748 seconds with WIN_LOSS heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 965, best action: 32E, elapsed time: 0.0019998550415, states visited: 15
+Depth 2, value: 0, best action: 32E, elapsed time: 0.0140001773834, states visited: 42
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0520000457764, states visited: 342
+Win found for white player with move 32E
+Negamax explored 400 nodes in 0.0680000782013 seconds with DEFAULT heuristic.
+Depth 0, value: -589, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 8238, best action: 54E, elapsed time: 0.0, states visited: 15
+Depth 2, value: -5169, best action: 54S, elapsed time: 0.00399994850159, states visited: 62
+Depth 3, value: 10000, best action: 53W, elapsed time: 0.0169999599457, states visited: 441
+Win found for white player with move 53W
+Negamax explored 519 nodes in 0.0209999084473 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 0, best action: 31E, elapsed time: 0.000999927520752, states visited: 15
+Depth 2, value: 0, best action: 31E, elapsed time: 0.007000207901, states visited: 41
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0379998683929, states visited: 318
+Win found for white player with move 32E
+Negamax explored 375 nodes in 0.0469999313354 seconds with WIN_LOSS heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 965, best action: 32E, elapsed time: 0.00200009346008, states visited: 15
+Depth 2, value: 0, best action: 32E, elapsed time: 0.0139999389648, states visited: 42
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0510001182556, states visited: 342
+Win found for white player with move 32E
+Negamax explored 400 nodes in 0.0680000782013 seconds with DEFAULT heuristic.
+Depth 0, value: -5563, best action: None, elapsed time: 0.0, states visited: 1
+Depth 1, value: 9972, best action: 54S, elapsed time: 0.0, states visited: 15
+Depth 2, value: -6025, best action: 53E, elapsed time: 0.00500011444092, states visited: 117
+Depth 3, value: 10000, best action: 53W, elapsed time: 0.0179998874664, states visited: 444
+Win found for white player with move 53W
+Negamax explored 577 nodes in 0.0230000019073 seconds with RANDOM heuristic.
+Depth 0, value: 0, best action: None, elapsed time: 0.000999927520752, states visited: 1
+Depth 1, value: 0, best action: 31E, elapsed time: 0.00100016593933, states visited: 15
+Depth 2, value: 0, best action: 31E, elapsed time: 0.00699996948242, states visited: 41
+Depth 3, value: 10000, best action: 32E, elapsed time: 0.0390000343323, states visited: 318
+Win found for white player with move 32E
+Negamax explored 375 nodes in 0.0480000972748 seconds with WIN_LOSS heuristic.
+
+Process finished with exit code 0

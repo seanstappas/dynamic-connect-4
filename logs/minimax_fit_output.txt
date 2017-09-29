@@ -1,0 +1,9 @@
+>> q2_minimax_exponential_fit
+
+f =
+
+     General model Exp1:
+     f(x) = a*exp(b*x)
+     Coefficients (with 95% confidence bounds):
+       a =       24.76  (-145.8, 195.3)
+       b =       1.829  (0.6766, 2.982)

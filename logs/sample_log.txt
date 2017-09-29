@@ -1,0 +1,679 @@
+ 1 2 3 4 5 6 7
+1  , , , , , ,X
+2 X, , , , , ,O
+3 O, , , , , ,X
+4 X, , , , , ,O
+5 O, , , , , ,X
+6 X, , , , , ,O
+7 O, , , , , ,
+Move number: 1
+[White AI] Thinking of a move...
+[White AI] Depth 0, value: 0, best action: None, elapsed time: 0.0 s, states visited: 1
+[White AI] Depth 1, value: 5, best action: 76W, elapsed time: 0.00 s, states visited: 8
+[White AI] Depth 2, value: 0, best action: 76W, elapsed time: 0.00 s, states visited: 22
+[White AI] Depth 3, value: 6, best action: 74W, elapsed time: 0.03 s, states visited: 135
+[White AI] Depth 4, value: 0, best action: 76W, elapsed time: 0.07 s, states visited: 257
+[White AI] Depth 5, value: 6, best action: 76W, elapsed time: 0.30 s, states visited: 1307
+[White AI] Depth 6, value: -1, best action: 76W, elapsed time: 1.09 s, states visited: 3836
+White (AI) move: 76W
+Move time: 3.0 s
+  1 2 3 4 5 6 7
+1  , , , , , ,X
+2 X, , , , , ,O
+3 O, , , , , ,X
+4 X, , , , , ,O
+5 O, , , , , ,X
+6 X, , , , ,O,
+7 O, , , , , ,
+Move number: 2
+[Black AI] Thinking of a move...
+[Black AI] Depth 0, value: 5, best action: None, elapsed time: 0.0 s, states visited: 1
+[Black AI] Depth 1, value: 0, best action: 71W, elapsed time: 0.00 s, states visited: 9
+[Black AI] Depth 2, value: 5, best action: 75W, elapsed time: 0.00 s, states visited: 34
+[Black AI] Depth 3, value: 0, best action: 71W, elapsed time: 0.02 s, states visited: 144
+[Black AI] Depth 4, value: 6, best action: 12E, elapsed time: 0.16 s, states visited: 619
+[Black AI] Depth 5, value: -1, best action: 75W, elapsed time: 0.47 s, states visited: 1991
+[Black AI] Depth 6, value: 5, best action: 71W, elapsed time: 1.27 s, states visited: 3979
+Black (AI) move: 71W
+Move time: 3.00099992752 s
+  1 2 3 4 5 6 7
+1  , , , , ,X,
+2 X, , , , , ,O
+3 O, , , , , ,X
+4 X, , , , , ,O
+5 O, , , , , ,X
+6 X, , , , ,O,
+7 O, , , , , ,
+Move number: 3
+[White AI] Thinking of a move...
+[White AI] Depth 0, value: 0, best action: None, elapsed time: 0.0 s, states visited: 1
+[White AI] Depth 1, value: 6, best action: 66W, elapsed time: 0.00 s, states visited: 11
+[White AI] Depth 2, value: 0, best action: 72W, elapsed time: 0.00 s, states visited: 39
+[White AI] Depth 3, value: 8, best action: 72W, elapsed time: 0.03 s, states visited: 158
+[White AI] Depth 4, value: 0, best action: 72W, elapsed time: 0.14 s, states visited: 582
+[White AI] Depth 5, value: 5, best action: 72W, elapsed time: 0.46 s, states visited: 1748
+[White AI] Depth 6, value: 0, best action: 72W, elapsed time: 1.36 s, states visited: 4904
+White (AI) move: 72W
+Move time: 3.0 s
+  1 2 3 4 5 6 7
+1  , , , , ,X,
+2 X, , , , ,O,
+3 O, , , , , ,X
+4 X, , , , , ,O
+5 O, , , , , ,X
+6 X, , , , ,O,
+7 O, , , , , ,
+Move number: 4
+[Black AI] Thinking of a move...
+[Black AI] Depth 0, value: 5, best action: None, elapsed time: 0.0 s, states visited: 1
+[Black AI] Depth 1, value: 0, best action: 12E, elapsed time: 0.00 s, states visited: 11
+[Black AI] Depth 2, value: 8, best action: 12E, elapsed time: 0.01 s, states visited: 32
+[Black AI] Depth 3, value: 0, best action: 73W, elapsed time: 0.04 s, states visited: 199
+[Black AI] Depth 4, value: 5, best action: 75W, elapsed time: 0.18 s, states visited: 655
+[Black AI] Depth 5, value: 0, best action: 12E, elapsed time: 0.43 s, states visited: 1740
+[Black AI] Depth 6, value: 6, best action: 73W, elapsed time: 1.53 s, states visited: 5834
+Black (AI) move: 73W
+Move time: 3.00199985504 s
+  1 2 3 4 5 6 7
+1  , , , , ,X,
+2 X, , , , ,O,
+3 O, , , , ,X,
+4 X, , , , , ,O
+5 O, , , , , ,X
+6 X, , , , ,O,
+7 O, , , , , ,
+Move number: 5
+[White AI] Thinking of a move...
+[White AI] Depth 0, value: 0, best action: None, elapsed time: 0.0 s, states visited: 1
+[White AI] Depth 1, value: 8, best action: 74W, elapsed time: 0.00 s, states visited: 12
+[White AI] Depth 2, value: 0, best action: 74W, elapsed time: 0.01 s, states visited: 33
+[White AI] Depth 3, value: 6, best action: 66N, elapsed time: 0.04 s, states visited: 201
+[White AI] Depth 4, value: 0, best action: 74W, elapsed time: 0.13 s, states visited: 429
+[White AI] Depth 5, value: 6, best action: 74W, elapsed time: 0.53 s, states visited: 2183
+[White AI] Depth 6, value: 0, best action: 74W, elapsed time: 1.65 s, states visited: 5393
+White (AI) move: 74W
+Move time: 3.00100016594 s
+  1 2 3 4 5 6 7
+1  , , , , ,X,
+2 X, , , , ,O,
+3 O, , , , ,X,
+4 X, , , , ,O,
+5 O, , , , , ,X
+6 X, , , , ,O,
+7 O, , , , , ,
+Move number: 6
+[Black AI] Thinking of a move...
+[Black AI] Depth 0, value: 8, best action: None, elapsed time: 0.0 s, states visited: 1
+[Black AI] Depth 1, value: 0, best action: 75W, elapsed time: 0.00 s, states visited: 12
+[Black AI] Depth 2, value: 5, best action: 75W, elapsed time: 0.01 s, states visited: 32
+[Black AI] Depth 3, value: 0, best action: 75W, elapsed time: 0.03 s, states visited: 177
+[Black AI] Depth 4, value: 6, best action: 75W, elapsed time: 0.16 s, states visited: 448
+[Black AI] Depth 5, value: 0, best action: 75W, elapsed time: 0.49 s, states visited: 2254
+[Black AI] Depth 6, value: 6, best action: 75W, elapsed time: 2.01 s, states visited: 5701
+Black (AI) move: 75W
+Move time: 3.00199985504 s
+  1 2 3 4 5 6 7
+1  , , , , ,X,
+2 X, , , , ,O,
+3 O, , , , ,X,
+4 X, , , , ,O,
+5 O, , , , ,X,
+6 X, , , , ,O,
+7 O, , , , , ,
+Move number: 7
+[White AI] Thinking of a move...
+[White AI] Depth 0, value: 0, best action: None, elapsed time: 0.0 s, states visited: 1
+[White AI] Depth 1, value: 5, best action: 17E, elapsed time: 0.00 s, states visited: 11
+[White AI] Depth 2, value: 0, best action: 17E, elapsed time: 0.00 s, states visited: 31
+[White AI] Depth 3, value: 6, best action: 15E, elapsed time: 0.04 s, states visited: 195
+[White AI] Depth 4, value: 0, best action: 17E, elapsed time: 0.14 s, states visited: 404
+[White AI] Depth 5, value: 6, best action: 15E, elapsed time: 0.63 s, states visited: 2423
+[White AI] Depth 6, value: -1, best action: 17E, elapsed time: 1.54 s, states visited: 4379
+White (AI) move: 17E
+Move time: 3.00099992752 s
+  1 2 3 4 5 6 7
+1  , , , , ,X,
+2 X, , , , ,O,
+3 O, , , , ,X,
+4 X, , , , ,O,
+5 O, , , , ,X,
+6 X, , , , ,O,
+7  ,O, , , , ,
+Move number: 8
+[Black AI] Thinking of a move...
+[Black AI] Depth 0, value: 5, best action: None, elapsed time: 0.00 s, states visited: 1
+[Black AI] Depth 1, value: 0, best action: 12E, elapsed time: 0.00 s, states visited: 12
+[Black AI] Depth 2, value: 5, best action: 16E, elapsed time: 0.01 s, states visited: 46
+[Black AI] Depth 3, value: 0, best action: 16E, elapsed time: 0.05 s, states visited: 194
+[Black AI] Depth 4, value: 5, best action: 16E, elapsed time: 0.19 s, states visited: 660
+[Black AI] Depth 5, value: -1, best action: 16E, elapsed time: 0.67 s, states visited: 2223
+Black (AI) move: 16E
+Move time: 3.0 s
+  1 2 3 4 5 6 7
+1  , , , , ,X,
+2 X, , , , ,O,
+3 O, , , , ,X,
+4 X, , , , ,O,
+5 O, , , , ,X,
+6  ,X, , , ,O,
+7  ,O, , , , ,
+Move number: 9
+[White AI] Thinking of a move...
+[White AI] Depth 0, value: 0, best action: None, elapsed time: 0.0 s, states visited: 1
+[White AI] Depth 1, value: 5, best action: 15E, elapsed time: 0.00 s, states visited: 13
+[White AI] Depth 2, value: 0, best action: 15E, elapsed time: 0.01 s, states visited: 36
+[White AI] Depth 3, value: 5, best action: 15E, elapsed time: 0.05 s, states visited: 256
+[White AI] Depth 4, value: -1, best action: 15E, elapsed time: 0.29 s, states visited: 786
+[White AI] Depth 5, value: 5, best action: 66W, elapsed time: 1.24 s, states visited: 4484
+White (AI) move: 66W
+Move time: 3.00099992752 s
+  1 2 3 4 5 6 7
+1  , , , , ,X,
+2 X, , , , ,O,
+3 O, , , , ,X,
+4 X, , , , ,O,
+5 O, , , , ,X,
+6  ,X, , ,O, ,
+7  ,O, , , , ,
+Move number: 10
+[Black AI] Thinking of a move...
+[Black AI] Depth 0, value: 3, best action: None, elapsed time: 0.0 s, states visited: 1
+[Black AI] Depth 1, value: -3, best action: 26E, elapsed time: 0.00 s, states visited: 14
+[Black AI] Depth 2, value: 4, best action: 12E, elapsed time: 0.01 s, states visited: 65
+[Black AI] Depth 3, value: -4, best action: 12E, elapsed time: 0.08 s, states visited: 275
+[Black AI] Depth 4, value: 5, best action: 65W, elapsed time: 0.29 s, states visited: 952
+[Black AI] Depth 5, value: -2, best action: 14E, elapsed time: 1.33 s, states visited: 4615
+Black (AI) move: 14E
+Move time: 3.0 s
+  1 2 3 4 5 6 7
+1  , , , , ,X,
+2 X, , , , ,O,
+3 O, , , , ,X,
+4  ,X, , , ,O,
+5 O, , , , ,X,
+6  ,X, , ,O, ,
+7  ,O, , , , ,
+Move number: 11
+[White AI] Thinking of a move...
+[White AI] Depth 0, value: -2, best action: None, elapsed time: 0.0 s, states visited: 1
+[White AI] Depth 1, value: 4, best action: 56N, elapsed time: 0.00 s, states visited: 16
+[White AI] Depth 2, value: -4, best action: 56N, elapsed time: 0.01 s, states visited: 45
+[White AI] Depth 3, value: 969, best action: 56N, elapsed time: 0.06 s, states visited: 294
+[White AI] Depth 4, value: -2, best action: 15E, elapsed time: 0.34 s, states visited: 1023
+[White AI] Depth 5, value: 968, best action: 56N, elapsed time: 1.09 s, states visited: 4904
+White (AI) move: 56N
+Move time: 3.00099992752 s
+  1 2 3 4 5 6 7
+1  , , , , ,X,
+2 X, , , , ,O,
+3 O, , , , ,X,
+4  ,X, , , ,O,
+5 O, , , ,O,X,
+6  ,X, , , , ,
+7  ,O, , , , ,
+Move number: 12
+[Black AI] Thinking of a move...
+[Black AI] Depth 0, value: 4, best action: None, elapsed time: 0.0 s, states visited: 1
+[Black AI] Depth 1, value: -4, best action: 12E, elapsed time: 0.00 s, states visited: 16
+[Black AI] Depth 2, value: 969, best action: 12E, elapsed time: 0.01 s, states visited: 45
+[Black AI] Depth 3, value: -3, best action: 26N, elapsed time: 0.08 s, states visited: 347
+[Black AI] Depth 4, value: 968, best action: 26E, elapsed time: 0.35 s, states visited: 1266
+[Black AI] Depth 5, value: 0, best action: 26N, elapsed time: 1.14 s, states visited: 4090
+Black (AI) move: 26N
+Move time: 3.00099992752 s
+  1 2 3 4 5 6 7
+1  , , , , ,X,
+2 X, , , , ,O,
+3 O, , , , ,X,
+4  ,X, , , ,O,
+5 O,X, , ,O,X,
+6  , , , , , ,
+7  ,O, , , , ,
+Move number: 13
+[White AI] Thinking of a move...
+[White AI] Depth 0, value: 1, best action: None, elapsed time: 0.0 s, states visited: 1
+[White AI] Depth 1, value: 974, best action: 27E, elapsed time: 0.00 s, states visited: 15
+[White AI] Depth 2, value: -3, best action: 13E, elapsed time: 0.01 s, states visited: 53
+[White AI] Depth 3, value: 973, best action: 27E, elapsed time: 0.04 s, states visited: 274
+[White AI] Depth 4, value: 0, best action: 27E, elapsed time: 0.24 s, states visited: 742
+[White AI] Depth 5, value: 972, best action: 27E, elapsed time: 0.58 s, states visited: 3001
+White (AI) move: 27E
+Move time: 3.00100016594 s
+  1 2 3 4 5 6 7
+1  , , , , ,X,
+2 X, , , , ,O,
+3 O, , , , ,X,
+4  ,X, , , ,O,
+5 O,X, , ,O,X,
+6  , , , , , ,
+7  , ,O, , , ,
+Move number: 14
+[Black AI] Thinking of a move...
+[Black AI] Depth 0, value: 974, best action: None, elapsed time: 0.0 s, states visited: 1
+[Black AI] Depth 1, value: -4, best action: 12E, elapsed time: 0.00 s, states visited: 14
+[Black AI] Depth 2, value: 973, best action: 24N, elapsed time: 0.01 s, states visited: 53
+[Black AI] Depth 3, value: 0, best action: 24N, elapsed time: 0.10 s, states visited: 353
+[Black AI] Depth 4, value: 972, best action: 63W, elapsed time: 0.28 s, states visited: 979
+[Black AI] Depth 5, value: 0, best action: 61W, elapsed time: 1.05 s, states visited: 3586
+Black (AI) move: 61W
+Move time: 3.0 s
+  1 2 3 4 5 6 7
+1  , , , ,X, ,
+2 X, , , , ,O,
+3 O, , , , ,X,
+4  ,X, , , ,O,
+5 O,X, , ,O,X,
+6  , , , , , ,
+7  , ,O, , , ,
+Move number: 15
+[White AI] Thinking of a move...
+[White AI] Depth 0, value: 971, best action: None, elapsed time: 0.0 s, states visited: 1
+[White AI] Depth 1, value: 976, best action: 13E, elapsed time: 0.00 s, states visited: 16
+[White AI] Depth 2, value: 968, best action: 13E, elapsed time: 0.01 s, states visited: 44
+[White AI] Depth 3, value: 974, best action: 62W, elapsed time: 0.07 s, states visited: 320
+[White AI] Depth 4, value: 0, best action: 62W, elapsed time: 0.34 s, states visited: 1028
+[White AI] Depth 5, value: 972, best action: 62W, elapsed time: 0.76 s, states visited: 3457
+White (AI) move: 62W
+Move time: 3.0 s
+  1 2 3 4 5 6 7
+1  , , , ,X, ,
+2 X, , , ,O, ,
+3 O, , , , ,X,
+4  ,X, , , ,O,
+5 O,X, , ,O,X,
+6  , , , , , ,
+7  , ,O, , , ,
+Move number: 16
+[Black AI] Thinking of a move...
+[Black AI] Depth 0, value: 974, best action: None, elapsed time: 0.0 s, states visited: 1
+[Black AI] Depth 1, value: -4, best action: 12E, elapsed time: 0.00 s, states visited: 15
+[Black AI] Depth 2, value: 974, best action: 12E, elapsed time: 0.01 s, states visited: 44
+[Black AI] Depth 3, value: 0, best action: 24N, elapsed time: 0.10 s, states visited: 364
+[Black AI] Depth 4, value: 972, best action: 12E, elapsed time: 0.27 s, states visited: 777
+[Black AI] Depth 5, value: 0, best action: 63W, elapsed time: 1.28 s, states visited: 4650
+Black (AI) move: 63W
+Move time: 3.00100016594 s
+  1 2 3 4 5 6 7
+1  , , , ,X, ,
+2 X, , , ,O, ,
+3 O, , , ,X, ,
+4  ,X, , , ,O,
+5 O,X, , ,O,X,
+6  , , , , , ,
+7  , ,O, , , ,
+Move number: 17
+[White AI] Thinking of a move...
+[White AI] Depth 0, value: 971, best action: None, elapsed time: 0.0 s, states visited: 1
+[White AI] Depth 1, value: 976, best action: 13E, elapsed time: 0.00 s, states visited: 16
+[White AI] Depth 2, value: 969, best action: 13E, elapsed time: 0.01 s, states visited: 44
+[White AI] Depth 3, value: 972, best action: 13E, elapsed time: 0.06 s, states visited: 325
+[White AI] Depth 4, value: 0, best action: 15N, elapsed time: 0.39 s, states visited: 1204
+[White AI] Depth 5, value: 7, best action: 37N, elapsed time: 1.57 s, states visited: 6456
+White (AI) move: 37N
+Move time: 3.0 s
+  1 2 3 4 5 6 7
+1  , , , ,X, ,
+2 X, , , ,O, ,
+3 O, , , ,X, ,
+4  ,X, , , ,O,
+5 O,X, , ,O,X,
+6  , ,O, , , ,
+7  , , , , , ,
+Move number: 18
+[Black AI] Thinking of a move...
+[Black AI] Depth 0, value: 6, best action: None, elapsed time: 0.0 s, states visited: 1
+[Black AI] Depth 1, value: -972, best action: 12E, elapsed time: 0.00 s, states visited: 15
+[Black AI] Depth 2, value: 3, best action: 12E, elapsed time: 0.01 s, states visited: 45
+[Black AI] Depth 3, value: -4, best action: 12E, elapsed time: 0.06 s, states visited: 271
+[Black AI] Depth 4, value: 7, best action: 53W, elapsed time: 0.34 s, states visited: 1244
+[Black AI] Depth 5, value: -2, best action: 12E, elapsed time: 0.66 s, states visited: 2869
+Black (AI) move: 12E
+Move time: 3.0 s
+  1 2 3 4 5 6 7
+1  , , , ,X, ,
+2  ,X, , ,O, ,
+3 O, , , ,X, ,
+4  ,X, , , ,O,
+5 O,X, , ,O,X,
+6  , ,O, , , ,
+7  , , , , , ,
+Move number: 19
+[White AI] Thinking of a move...
+[White AI] Depth 0, value: -972, best action: None, elapsed time: 0.0 s, states visited: 1
+[White AI] Depth 1, value: 3, best action: 13E, elapsed time: 0.00 s, states visited: 18
+[White AI] Depth 2, value: -4, best action: 13E, elapsed time: 0.01 s, states visited: 48
+[White AI] Depth 3, value: 971, best action: 13E, elapsed time: 0.06 s, states visited: 346
+[White AI] Depth 4, value: -2, best action: 13E, elapsed time: 0.25 s, states visited: 779
+[White AI] Depth 5, value: 3, best action: 13E, elapsed time: 0.71 s, states visited: 3873
+White (AI) move: 13E
+Move time: 3.0 s
+  1 2 3 4 5 6 7
+1  , , , ,X, ,
+2  ,X, , ,O, ,
+3  ,O, , ,X, ,
+4  ,X, , , ,O,
+5 O,X, , ,O,X,
+6  , ,O, , , ,
+7  , , , , , ,
+Move number: 20
+[Black AI] Thinking of a move...
+[Black AI] Depth 0, value: 3, best action: None, elapsed time: 0.00 s, states visited: 1
+[Black AI] Depth 1, value: -4, best action: 53W, elapsed time: 0.00 s, states visited: 15
+[Black AI] Depth 2, value: 971, best action: 25E, elapsed time: 0.01 s, states visited: 60
+[Black AI] Depth 3, value: -2, best action: 22E, elapsed time: 0.09 s, states visited: 334
+[Black AI] Depth 4, value: 3, best action: 53S, elapsed time: 0.29 s, states visited: 1144
+[Black AI] Depth 5, value: 0, best action: 25E, elapsed time: 1.09 s, states visited: 3765
+Black (AI) move: 25E
+Move time: 3.00099992752 s
+  1 2 3 4 5 6 7
+1  , , , ,X, ,
+2  ,X, , ,O, ,
+3  ,O, , ,X, ,
+4  ,X, , , ,O,
+5 O, ,X, ,O,X,
+6  , ,O, , , ,
+7  , , , , , ,
+Move number: 21
+[White AI] Thinking of a move...
+[White AI] Depth 0, value: -3, best action: None, elapsed time: 0.00 s, states visited: 1
+[White AI] Depth 1, value: 971, best action: 36E, elapsed time: 0.00 s, states visited: 17
+[White AI] Depth 2, value: 968, best action: 36E, elapsed time: 0.02 s, states visited: 49
+[White AI] Depth 3, value: 973, best action: 36E, elapsed time: 0.10 s, states visited: 330
+[White AI] Depth 4, value: 0, best action: 36E, elapsed time: 0.45 s, states visited: 1074
+[White AI] Depth 5, value: 5, best action: 36E, elapsed time: 2.00 s, states visited: 9129
+White (AI) move: 36E
+Move time: 3.00100016594 s
+  1 2 3 4 5 6 7
+1  , , , ,X, ,
+2  ,X, , ,O, ,
+3  ,O, , ,X, ,
+4  ,X, , , ,O,
+5 O, ,X, ,O,X,
+6  , , ,O, , ,
+7  , , , , , ,
+Move number: 22
+[Black AI] Thinking of a move...
+[Black AI] Depth 0, value: 971, best action: None, elapsed time: 0.0 s, states visited: 1
+[Black AI] Depth 1, value: 968, best action: 22E, elapsed time: 0.00 s, states visited: 18
+[Black AI] Depth 2, value: 973, best action: 22E, elapsed time: 0.02 s, states visited: 52
+[Black AI] Depth 3, value: 0, best action: 22E, elapsed time: 0.07 s, states visited: 332
+[Black AI] Depth 4, value: 5, best action: 24E, elapsed time: 0.38 s, states visited: 1283
+[Black AI] Depth 5, value: 2, best action: 22E, elapsed time: 0.88 s, states visited: 3867
+Black (AI) move: 22E
+Move time: 3.00099992752 s
+  1 2 3 4 5 6 7
+1  , , , ,X, ,
+2  , ,X, ,O, ,
+3  ,O, , ,X, ,
+4  ,X, , , ,O,
+5 O, ,X, ,O,X,
+6  , , ,O, , ,
+7  , , , , , ,
+Move number: 23
+[White AI] Thinking of a move...
+[White AI] Depth 0, value: 968, best action: None, elapsed time: 0.0 s, states visited: 1
+[White AI] Depth 1, value: 973, best action: 15E, elapsed time: 0.00 s, states visited: 19
+[White AI] Depth 2, value: 0, best action: 15E, elapsed time: 0.02 s, states visited: 52
+[White AI] Depth 3, value: 969, best action: 23E, elapsed time: 0.10 s, states visited: 452
+[White AI] Depth 4, value: 2, best action: 23E, elapsed time: 0.36 s, states visited: 1009
+[White AI] Depth 5, value: 976, best action: 52E, elapsed time: 1.80 s, states visited: 8594
+White (AI) move: 52E
+Move time: 3.0 s
+  1 2 3 4 5 6 7
+1  , , , ,X, ,
+2  , ,X, , ,O,
+3  ,O, , ,X, ,
+4  ,X, , , ,O,
+5 O, ,X, ,O,X,
+6  , , ,O, , ,
+7  , , , , , ,
+Move number: 24
+[Black AI] Thinking of a move...
+[Black AI] Depth 0, value: 962, best action: None, elapsed time: 0.0 s, states visited: 1
+[Black AI] Depth 1, value: -8, best action: 32S, elapsed time: 0.00 s, states visited: 21
+[Black AI] Depth 2, value: -3, best action: 32S, elapsed time: 0.02 s, states visited: 59
+[Black AI] Depth 3, value: -8, best action: 51S, elapsed time: 0.12 s, states visited: 454
+[Black AI] Depth 4, value: 976, best action: 53E, elapsed time: 1.02 s, states visited: 4098
+Black (AI) move: 53E
+Move time: 3.00100016594 s
+  1 2 3 4 5 6 7
+1  , , , ,X, ,
+2  , ,X, , ,O,
+3  ,O, , , ,X,
+4  ,X, , , ,O,
+5 O, ,X, ,O,X,
+6  , , ,O, , ,
+7  , , , , , ,
+Move number: 25
+[White AI] Thinking of a move...
+[White AI] Depth 0, value: 971, best action: None, elapsed time: 0.0 s, states visited: 1
+[White AI] Depth 1, value: 976, best action: 15E, elapsed time: 0.00 s, states visited: 19
+[White AI] Depth 2, value: 963, best action: 23E, elapsed time: 0.02 s, states visited: 69
+[White AI] Depth 3, value: 976, best action: 62E, elapsed time: 0.14 s, states visited: 516
+[White AI] Depth 4, value: 966, best action: 62E, elapsed time: 0.46 s, states visited: 1340
+[White AI] Depth 5, value: 971, best action: 23E, elapsed time: 1.62 s, states visited: 6656
+White (AI) move: 23E
+Move time: 3.00099992752 s
+  1 2 3 4 5 6 7
+1  , , , ,X, ,
+2  , ,X, , ,O,
+3  , ,O, , ,X,
+4  ,X, , , ,O,
+5 O, ,X, ,O,X,
+6  , , ,O, , ,
+7  , , , , , ,
+Move number: 26
+[Black AI] Thinking of a move...
+[Black AI] Depth 0, value: 974, best action: None, elapsed time: 0.0 s, states visited: 1
+[Black AI] Depth 1, value: 963, best action: 51S, elapsed time: 0.00 s, states visited: 19
+[Black AI] Depth 2, value: 968, best action: 51S, elapsed time: 0.02 s, states visited: 53
+[Black AI] Depth 3, value: 2, best action: 63W, elapsed time: 0.11 s, states visited: 415
+[Black AI] Depth 4, value: 971, best action: 51S, elapsed time: 0.59 s, states visited: 1623
+Black (AI) move: 51S
+Move time: 3.00099992752 s
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , ,X, ,X,O,
+3  , ,O, , ,X,
+4  ,X, , , ,O,
+5 O, ,X, ,O,X,
+6  , , ,O, , ,
+7  , , , , , ,
+Move number: 27
+[White AI] Thinking of a move...
+[White AI] Depth 0, value: 963, best action: None, elapsed time: 0.0 s, states visited: 1
+[White AI] Depth 1, value: 968, best action: 15E, elapsed time: 0.00 s, states visited: 18
+[White AI] Depth 2, value: 962, best action: 15E, elapsed time: 0.02 s, states visited: 50
+[White AI] Depth 3, value: 971, best action: 62E, elapsed time: 0.10 s, states visited: 450
+[White AI] Depth 4, value: 963, best action: 62E, elapsed time: 0.51 s, states visited: 1224
+[White AI] Depth 5, value: 970, best action: 15E, elapsed time: 2.00 s, states visited: 9065
+White (AI) move: 15E
+Move time: 3.00100016594 s
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , ,X, ,X,O,
+3  , ,O, , ,X,
+4  ,X, , , ,O,
+5  ,O,X, ,O,X,
+6  , , ,O, , ,
+7  , , , , , ,
+Move number: 28
+[Black AI] Thinking of a move...
+[Black AI] Depth 0, value: 968, best action: None, elapsed time: 0.0 s, states visited: 1
+[Black AI] Depth 1, value: 962, best action: 63W, elapsed time: 0.00 s, states visited: 17
+[Black AI] Depth 2, value: 963, best action: 24E, elapsed time: 0.02 s, states visited: 65
+[Black AI] Depth 3, value: 0, best action: 63W, elapsed time: 0.07 s, states visited: 324
+[Black AI] Depth 4, value: 970, best action: 24E, elapsed time: 0.73 s, states visited: 2352
+Black (AI) move: 24E
+Move time: 3.00199985504 s
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , ,X, ,X,O,
+3  , ,O, , ,X,
+4  , ,X, , ,O,
+5  ,O,X, ,O,X,
+6  , , ,O, , ,
+7  , , , , , ,
+Move number: 29
+[White AI] Thinking of a move...
+[White AI] Depth 0, value: 962, best action: None, elapsed time: 0.0 s, states visited: 1
+[White AI] Depth 1, value: 963, best action: 25N, elapsed time: 0.00 s, states visited: 17
+[White AI] Depth 2, value: 2, best action: 25N, elapsed time: 0.01 s, states visited: 46
+[White AI] Depth 3, value: 970, best action: 62E, elapsed time: 0.08 s, states visited: 411
+[White AI] Depth 4, value: 962, best action: 62E, elapsed time: 0.39 s, states visited: 1026
+[White AI] Depth 5, value: 970, best action: 25S, elapsed time: 1.74 s, states visited: 7374
+White (AI) move: 25S
+Move time: 3.00100016594 s
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , ,X, ,X,O,
+3  , ,O, , ,X,
+4  , ,X, , ,O,
+5  , ,X, ,O,X,
+6  ,O, ,O, , ,
+7  , , , , , ,
+Move number: 30
+[Black AI] Thinking of a move...
+[Black AI] Depth 0, value: 959, best action: None, elapsed time: 0.0 s, states visited: 1
+[Black AI] Depth 1, value: -2, best action: 35W, elapsed time: 0.00 s, states visited: 16
+[Black AI] Depth 2, value: 956, best action: 63W, elapsed time: 0.02 s, states visited: 64
+[Black AI] Depth 3, value: -6, best action: 63W, elapsed time: 0.08 s, states visited: 348
+[Black AI] Depth 4, value: 970, best action: 35S, elapsed time: 0.47 s, states visited: 1388
+[Black AI] Depth 5, value: 962, best action: 35S, elapsed time: 1.57 s, states visited: 4878
+Black (AI) move: 35S
+Move time: 3.0 s
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , ,X, ,X,O,
+3  , ,O, , ,X,
+4  , ,X, , ,O,
+5  , , , ,O,X,
+6  ,O,X,O, , ,
+7  , , , , , ,
+Move number: 31
+[White AI] Thinking of a move...
+[White AI] Depth 0, value: 962, best action: None, elapsed time: 0.0 s, states visited: 1
+[White AI] Depth 1, value: 965, best action: 26N, elapsed time: 0.00 s, states visited: 16
+[White AI] Depth 2, value: 962, best action: 26N, elapsed time: 0.02 s, states visited: 46
+[White AI] Depth 3, value: 970, best action: 62E, elapsed time: 0.10 s, states visited: 413
+[White AI] Depth 4, value: 962, best action: 62E, elapsed time: 0.41 s, states visited: 1019
+[White AI] Depth 5, value: 973, best action: 62E, elapsed time: 2.02 s, states visited: 8723
+White (AI) move: 62E
+Move time: 3.00099992752 s
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , ,X, ,X, ,O
+3  , ,O, , ,X,
+4  , ,X, , ,O,
+5  , , , ,O,X,
+6  ,O,X,O, , ,
+7  , , , , , ,
+Move number: 32
+[Black AI] Thinking of a move...
+[Black AI] Depth 0, value: 957, best action: None, elapsed time: 0.0 s, states visited: 1
+[Black AI] Depth 1, value: -4, best action: 63N, elapsed time: 0.00 s, states visited: 18
+[Black AI] Depth 2, value: 970, best action: 63E, elapsed time: 0.02 s, states visited: 79
+[Black AI] Depth 3, value: 962, best action: 63E, elapsed time: 0.09 s, states visited: 356
+[Black AI] Depth 4, value: 973, best action: 63E, elapsed time: 0.39 s, states visited: 1373
+[Black AI] Depth 5, value: 965, best action: 63E, elapsed time: 1.84 s, states visited: 5328
+Black (AI) move: 63E
+Move time: 3.00100016594 s
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , ,X, ,X, ,O
+3  , ,O, , , ,X
+4  , ,X, , ,O,
+5  , , , ,O,X,
+6  ,O,X,O, , ,
+7  , , , , , ,
+Move number: 33
+[White AI] Thinking of a move...
+[White AI] Depth 0, value: 965, best action: None, elapsed time: 0.0 s, states visited: 1
+[White AI] Depth 1, value: 970, best action: 72W, elapsed time: 0.00 s, states visited: 17
+[White AI] Depth 2, value: 962, best action: 72W, elapsed time: 0.02 s, states visited: 48
+[White AI] Depth 3, value: 973, best action: 26S, elapsed time: 0.11 s, states visited: 437
+[White AI] Depth 4, value: 965, best action: 26S, elapsed time: 0.42 s, states visited: 1057
+[White AI] Depth 5, value: 971, best action: 33E, elapsed time: 1.84 s, states visited: 7472
+White (AI) move: 33E
+Move time: 3.00099992752 s
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , ,X, ,X, ,O
+3  , , ,O, , ,X
+4  , ,X, , ,O,
+5  , , , ,O,X,
+6  ,O,X,O, , ,
+7  , , , , , ,
+Move number: 34
+[Black AI] Thinking of a move...
+[Black AI] Depth 0, value: 966, best action: None, elapsed time: 0.0 s, states visited: 1
+[Black AI] Depth 1, value: -4, best action: 32S, elapsed time: 0.00 s, states visited: 19
+[Black AI] Depth 2, value: 1, best action: 32S, elapsed time: 0.02 s, states visited: 53
+[Black AI] Depth 3, value: -4, best action: 32S, elapsed time: 0.08 s, states visited: 378
+[Black AI] Depth 4, value: 971, best action: 52S, elapsed time: 0.81 s, states visited: 2720
+[Black AI] Depth 5, value: -4, best action: 32S, elapsed time: 1.08 s, states visited: 4772
+Black (AI) move: 32S
+Move time: 3.00200009346 s
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , ,X, ,O
+3  , ,X,O, , ,X
+4  , ,X, , ,O,
+5  , , , ,O,X,
+6  ,O,X,O, , ,
+7  , , , , , ,
+Move number: 35
+[White AI] Thinking of a move...
+[White AI] Depth 0, value: -4, best action: None, elapsed time: 0.0 s, states visited: 1
+[White AI] Depth 1, value: 1, best action: 72W, elapsed time: 0.00 s, states visited: 18
+[White AI] Depth 2, value: -4, best action: 72W, elapsed time: 0.01 s, states visited: 49
+[White AI] Depth 3, value: 974, best action: 26S, elapsed time: 0.09 s, states visited: 524
+[White AI] Depth 4, value: -4, best action: 26N, elapsed time: 0.39 s, states visited: 1307
+[White AI] Depth 5, value: 10000, best action: 43E, elapsed time: 1.5 s, states visited: 6595
+[AI] Win found for White player with move 43E
+White (AI) move: 43E
+Move time: 2.01099991798 s
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , ,X, ,O
+3  , ,X, ,O, ,X
+4  , ,X, , ,O,
+5  , , , ,O,X,
+6  ,O,X,O, , ,
+7  , , , , , ,
+Move number: 36
+[Black AI] Thinking of a move...
+[Black AI] Depth 0, value: -5, best action: None, elapsed time: 0.0 s, states visited: 1
+[Black AI] Depth 1, value: -10, best action: 73W, elapsed time: 0.00 s, states visited: 16
+[Black AI] Depth 2, value: -3, best action: 36N, elapsed time: 0.01 s, states visited: 64
+[Black AI] Depth 3, value: -9000, best action: 52W, elapsed time: 0.08 s, states visited: 369
+[Black AI] Depth 4, value: 10000, best action: 73W, elapsed time: 0.33 s, states visited: 1290
+[Black AI] Depth 5, value: 10000, best action: 73W, elapsed time: 1.36 s, states visited: 4805
+Black (AI) move: 73W
+Move time: 3.00099992752 s
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , ,X, ,O
+3  , ,X, ,O,X,
+4  , ,X, , ,O,
+5  , , , ,O,X,
+6  ,O,X,O, , ,
+7  , , , , , ,
+Move number: 37
+[White AI] Thinking of a move...
+[White AI] Depth 0, value: -10, best action: None, elapsed time: 0.0 s, states visited: 1
+[White AI] Depth 1, value: 10000, best action: 72S, elapsed time: 0.00 s, states visited: 17
+[AI] Win found for White player with move 72S
+White (AI) move: 72S
+Move time: 0.000999927520752 s
+  1 2 3 4 5 6 7
+1  , , , , , ,
+2  , , , ,X, ,
+3  , ,X, ,O,X,O
+4  , ,X, , ,O,
+5  , , , ,O,X,
+6  ,O,X,O, , ,
+7  , , , , , ,
+White wins!
+
+Process finished with exit code 0
