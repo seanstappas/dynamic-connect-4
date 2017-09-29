@@ -8,9 +8,6 @@ set(h,'MarkerSize',15);
 % Annotations
 xlabel('Depth cutoff');
 ylabel('Number of states explored');
-%axis([min(freqrange), max(freqrange), min(dbgain)-downoff,max(dbgain)+upoff])
-%set(gca,'xscale','log');
-%set(gca,'yscale','log');
 
 legend('show');
 legend('Data points','Fitted curve','location','southwest');
