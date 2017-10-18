@@ -1,6 +1,6 @@
 # Dynamic Connect-4
 
-This is a Python implementation of an agent that can play the Dynamic Connect-4 game, as described [here](http://www.cim.mcgill.ca/~jer/courses/ai/assignments/as1.html).
+This is a Python implementation of an agent that can play the Dynamic Connect-4 game. This is assignment 1 of the ECSE-526 class, as described [here](http://www.cim.mcgill.ca/~jer/courses/ai/assignments/as1.html).
 
 The agent uses a flavour of alpha-beta pruning with transposition table and heuristic function to search the state space and pick the best move.
 
